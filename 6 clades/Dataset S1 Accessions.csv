@@ -1,0 +1,493 @@
+sample,new.name,family,extraction.code,no.missing.data,Locality,WGS.X,WGS.Y,Lambert.X,Lambert.Y,Collector,keep.for.species.tree.campanula,keep.for.species.tree.phyteuma,keep.for.species.tree.gentiana,keep.for.species.tree.androsace,keep.for.species.tree.primula,keep.for.species.tree.saxifraga
+Adenophora_liliifolia361368PHA000132BGNNR,Adenophora_liliifolia361368PHA000132BGNNR,Campanulaceae,BGN:NR,1,Canton du Tessin (CH). Meride. Costa di prabello,8.94101,45.91091,716577,85483,Adrian Moehl,0,0,,,,
+Campanula_adsurgens1904707CLA001475BGNMLC,Campanula_adsurgens1904707CLA001475BGNMLC,Campanulaceae,BGN:MLC,1,L??on (E). Priaranza del Bierzo. Castillo de Cornatel (780 m),-6.69333333,42.48766667,,,Cristina Roquet,1,0,,,,
+Campanula_albanica1904708CLA001477BGNMNV,Campanula_albanica1904708CLA001477BGNMNV,Campanulaceae,BGN:MNV,1,Cafa od Carina pass,19.64875,42.67552,,,Jan Smycka,1,0,,,,
+Campanula_alpestris440356PHA001479RSZRSZAXPI000941-66,Campanula_alpestris440356PHA001479RSZRSZAXPI000941-66,Campanulaceae,RSZ:RSZAXPI000941-66,1,Bouches-du-Rh??ne (FR). P??one. Col de Crous.,6.9045479881,44.14344865,965633.98,1915308.89,CBNM,0,0,,,,
+Campanula_alpina361372PHA001482BGNND,Campanula_alpina361372PHA001482BGNND,Campanulaceae,BGN:ND,1,,,,,,,0,0,,,,
+Campanula_andorrana1907868CLA001484BGNMQM,Campanula_andorrana1907868CLA001484BGNMQM,Campanulaceae,BGN:MQM,1,"Andorre (AND). Pic de Casamanya, loc. class.",,,,,Llorenc Saez,1,0,,,,
+Campanula_andorrana1907868CLA001485BGNMQN,Campanula_andorrana1907868CLA001485BGNMQN,Campanulaceae,BGN:MQN,1,"Andorre (AND). Pic de Casamanya, loc. class.",,,,,Llorenc Saez,0,0,,,,
+Campanula_arvatica239398CLA001486BGNMLD,Campanula_arvatica239398CLA001486BGNMLD,Campanulaceae,BGN:MLD,1,"Espagne (E). Sobre Puerto Ventana (Babia), c. 1630 m",-6.00263889,43.05827778,,,Cristina Roquet,1,0,,,,
+Campanula_barbata239399PHA001487BGNKA,Campanula_barbata239399PHA001487BGNKA,Campanulaceae,BGN:KA,1,Hautes-Alpes (FR). Villard-d'Ar??ne. Col du Galibier.,6.4027987374,45.0313415213,920406.1,2011698.96,SAJF,0,0,,,,
+Campanula_baumgartenii649649CLA001491BGNMMQ,Campanula_baumgartenii649649CLA001491BGNMMQ,Campanulaceae,BGN:MMQ,1,Deutschland (DE). Frankfurt am Main.,8.5437089,50.2009067,,,Kristyna Semberova,1,0,,,,
+Campanula_bertolae1241035CLA001493BGNMMR,Campanula_bertolae1241035CLA001493BGNMMR,Campanulaceae,BGN:MMR,1,Pi??mont (IT). Givolleto. Valle de la Torre,7.46247,45.15248,,,Kristyna Semberova,0,0,,,,
+Campanula_bertolae1241035PHA001492BGNKV,Campanula_bertolae1241035PHA001492BGNKV,Campanulaceae,BGN:KV,1,Hautes-Alpes (FR). Montgen??vre.,6.717496,44.929777,,,SAJF,1,0,,,,
+Campanula_bohemica1241038CLA001494BGNMMS,Campanula_bohemica1241038CLA001494BGNMMS,Campanulaceae,BGN:MMS,1,R??publique tch??que (CZE). Krkono?!e,15.540705,50.75633,,,Kristyna Semberova,1,0,,,,
+Campanula_bononiensis361374PHA001495BGNAA,Campanula_bononiensis361374PHA001495BGNAA,Campanulaceae,BGN:AA,1,Hautes-Alpes (FR). La Grave. Les Fr??aux,6.284087,45.044077,,,Rolland Douzet,0,0,,,,
+Campanula_bononiensis361374PHA001497RSZRSZAXPI000834-26,Campanula_bononiensis361374PHA001497RSZRSZAXPI000834-26,Campanulaceae,RSZ:RSZAXPI000834-26,1,Canton du Valais (CH). Champex-d'Alesse. Oberhalb Branson,7.09045,46.13195,,,Adrian Moehl,0,0,,,,
+Campanula_cantabrica1904709CLA001498BGNMLE,Campanula_cantabrica1904709CLA001498BGNMLE,Campanulaceae,BGN:MLE,1,"Espagne (E). Puerto de Ventana, c. 1600 m",-6.00283333,43.05833333,,,Cristina Roquet,1,0,,,,
+Campanula_carnica_carnica1241047PHA001502BGNINL,Campanula_carnica_carnica1241047PHA001502BGNINL,Campanulaceae,BGN:INL,1,Monte Baldo (IT). Localtia Pra da Stua.,10.797046,45.703287,,,Adrian Moehl,1,0,,,,
+Campanula_carnica_puberula1532300CLA001505BGNMMT,Campanula_martinii1532300CLA001505BGNMMT,Campanulaceae,BGN:MMT,1,Lombardie (IT). Lago di Iseo,10.104861,45.744972,,,Kristyna Semberova,0,0,,,,
+Campanula_carnica_puberula1532300PHA001503BGNALM,Campanula_carnica_puberula1532300PHA001503BGNALM,Campanulaceae,BGN:ALM,1,Lombardie (IT). Magasa. Strassenrand.,10.614653,45.778539,,,Adrian Moehl,1,0,,,,
+Campanula_carpatica171910CAR001506BGNLMF,Campanula_carpatica171910CAR001506BGNLMF,Campanulaceae,BGN:LMF,1,"Romania (RO). Piatra Craiului Massif, Dambovi?>a Small Gorges, 750 m, Carpathians",25.19317,45.42082,,,Bogdan Hurdu,0,0,,,,
+Campanula_carpatica171910CAR010089BGNNDE,Campanula_carpatica171910CAR010089BGNNDE,Campanulaceae,BGN:NDE,1,"Slovakia (SK). Volovsk?? vrchy, Koj?!ov, Carpathians.",21.01541667,48.813,,,Patrik Mraz,0,0,,,,
+Campanula_cenisia361375PHA001508BGNKB,Campanula_cenisia361375PHA001508BGNKB,Campanulaceae,BGN:KB,1,Hautes-Alpes (FR). Villard-d'Ar??ne. Col du Galibier.,6.408527154,45.0640078097,920669.05,2015349,SAJF,1,0,,,,
+Campanula_cervicaria649652PHA001510BGNRK,Campanula_cervicaria649652PHA001510BGNRK,Campanulaceae,BGN:RK,1,,,,,,,0,0,,,,
+Campanula_cespitosa361377PHA001512BGNNE,Campanula_cespitosa361377PHA001512BGNNE,Campanulaceae,BGN:NE,1,,,,,,,1,0,,,,
+Campanula_cochleariifolia428162CLA001517BGNMMV,Campanula_cochleariifolia428162CLA001517BGNMMV,Campanulaceae,BGN:MMV,1,Canton d'Obwald (CH). Lungern,8.145,46.767815,,,Llorenc Saez,0,0,,,,
+Campanula_cochleariifolia428162CLA001518BGNMQP,Campanula_cochleariifolia428162CLA001518BGNMQP,Campanulaceae,BGN:MQP,1,Puigmal,,,,,Llorenc Saez,0,0,,,,
+Campanula_cochleariifolia428162CLA001519BGNMQQ,Campanula_cochleariifolia428162CLA001519BGNMQQ,Campanulaceae,BGN:MQQ,1,Puigmal,,,,,Llorenc Saez,0,0,,,,
+Campanula_cochleariifolia428162CLA001520BGNMQR,Campanula_cochleariifolia428162CLA001520BGNMQR,Campanulaceae,BGN:MQR,1,Province de Huesca (E). Massif du Mont-Perdu. Cilindro de Marbor??,,,,,Llorenc Saez,0,0,,,,
+Campanula_cochleariifolia428162CLA001521BGNMQS,Campanula_cochleariifolia428162CLA001521BGNMQS,Campanulaceae,BGN:MQS,1,Province de Huesca (E). Massif du Mont-Perdu. Cilindro de Marbor??,,,,,Llorenc Saez,0,0,,,,
+Campanula_cochleariifolia428162PHA001514BGNII,Campanula_cochleariifolia428162PHA001514BGNII,Campanulaceae,BGN:II,1,Hautes-Alpes (FR). Val-des-Pr??s.,6.65527778,44.96694444,,,SAJF,1,0,,,,
+Campanula_crassipes1241059CAR001522BGNLMG,Campanula_crassipes1241059CAR001522BGNLMG,Campanulaceae,BGN:LMG,1,"Romania (RO). Aninei Mts, Danube Valley, ??Gaura cu Musc???? Cave, 105 m, Carpathians",21.6988833333,44.6647333333,,,Bogdan Hurdu,1,0,,,,
+Campanula_elatinoides361381PHA001524BGNPF,Campanula_elatinoides361381PHA001524BGNPF,Campanulaceae,BGN:PF,1,,,,,,,0,0,,,,
+Campanula_erinus239403PHA001526RSZRSZAXPI000793-20,Campanula_erinus239403PHA001526RSZRSZAXPI000793-20,Campanulaceae,RSZ:RSZAXPI000793-20,1,Alpes-de-Haute-Provence (FR). Corbi??res.,5.74631,43.7488,,,Jeremie Van Es,0,0,,,,
+Campanula_excisa1241076PHA001528BGNPG,Campanula_excisa1241076PHA001528BGNPG,Campanulaceae,BGN:PG,1,Canton du Valais (CH). Simplon. Holiecht.,8.04273,46.22301,,,Adrian Moehl,1,0,,,,
+Campanula_fragilis361385CLA001531BGNMMD,Campanula_fragilis_fragilis361385CLA001531BGNMMD,Campanulaceae,BGN:MMD,1,Scotland (GB-SCT). Fife. St Andrews Botanic Garden,,,,,BGSTAD,0,0,,,,
+Campanula_fragilis361385CLA001532BGNMPA,Campanula_fragilis_cavolinii361385CLA001532BGNMPA,Campanulaceae,BGN:MPA,1,"Abbruzes (IT). From Calascio to Rocca de Calascio, after turning from asphalt road to gravel.",13.6899169,42.3316086,,,Jan Smycka,1,0,,,,
+Campanula_fragilis361385CLA001533BGNNNA,Campanula_fragilis_fragilis361385CLA001533BGNNNA,Campanulaceae,BGN:NNA,1,"Campanie (IT). Centola. Capo Palinuro ???,???? tower ruin Batteria del Prodese close to the port",15.2729353,40.0321306,,,Jan Smycka,1,0,,,,
+Campanula_fritschii1475209CLA001537BGNMNA,Campanula_fritschii1475209CLA001537BGNMNA,Campanulaceae,BGN:MNA,1,Colmars 4,6.6953,44.17521,,,Kristyna Semberova,1,0,,,,
+Campanula_fritschii1475209PHA001534BGNAKQ,Campanula_rotundifolia_sl1475209PHA001534BGNAKQ,Campanulaceae,BGN:AKQ,1,Bouches-du-Rh??ne (FR). P??one.,6.9292249138,44.1151415025,967790.78,1912281.02,CBNM,0,0,,,,
+Campanula_gelida1904710CLA001538BGNMNB,Campanula_gelida1904710CLA001538BGNMNB,Campanulaceae,BGN:MNB,1,R??publique tch??que (CZE). Jesen????ky Petrovy kameny,17.2338453,50.0685333,,,Kristyna Semberova,1,0,,,,
+Campanula_glomerata82281TROM_V_126635BXABHT,Campanula_glomerata_glomerata82281TROM_V_126635BXABHT,Campanulaceae,,1,,,,,,TROM,0,0,,,,
+Campanula_glomerata_cervicarioides82281PHA001539RSZRSZAXPI000867-109,Campanula_glomerata_cervicarioides82281PHA001539RSZRSZAXPI000867-109,Campanulaceae,RSZ:RSZAXPI000867-109,1,Alpes-de-Haute-Provence (FR). Claret.,5.9841600008,44.3753999975,890826.661,1937226.819,Luc Garraud,0,0,,,,
+Campanula_glomerata_farinosa1532302PHA001540BGNIRQ,Campanula_glomerata_farinosa1532302PHA001540BGNIRQ,Campanulaceae,BGN:IRQ,1,Canton du Valais (CH). Leuk. Pfynwald. ,7.56919,46.29404,,,Adrian Moehl,0,0,,,,
+Campanula_glomerata_glomerata1241095PHA001543RSZRSZAXPI000835-27,Campanula_glomerata_glomerata1241095PHA001543RSZRSZAXPI000835-27,Campanulaceae,RSZ:RSZAXPI000835-27,1,Canton des Grisons (CH). Sent. Ausserhalb Dorf,10.33978,46.81532,,,Adrian Moehl,0,0,,,,
+Campanula_gracillima1904711CLA001544BGNMNC,Campanula_rotundifolia_sl1904711CLA001544BGNMNC,Campanulaceae,BGN:MNC,1,,,,,,Kristyna Semberova,0,0,,,,
+Campanula_grossekii239404CAR001545BGNLMH,Campanula_grossekii239404CAR001545BGNLMH,Campanulaceae,BGN:LMH,1,"Romania (RO). Al. Borza Botanical Garden, unknown origin, cultivated.",,,,,Mihai Puscas,0,0,,,,
+Campanula_hercegovina361388CLA001547BGNMPB,Campanula_hercegovina361388CLA001547BGNMPB,Campanulaceae,BGN:MPB,1,"In scree field way from Gorna Dreznica north to the mountains refered by the locals as one going to the waterfall, 1 km west from Moscenu???!a valley.",17.5629,43.55475,,,Jan Smycka,1,0,,,,
+Campanula_herminii239406CLA001548BGNMLF,Campanula_herminii239406CLA001548BGNMLF,Campanulaceae,BGN:MLF,1,"Puerto de Ancares, c. 1680 m",-6.81827778,42.86813889,,,Cristina Roquet,1,0,,,,
+Campanula_hispanica1241097CLA001549BGNMLG,Campanula_hispanica1241097CLA001549BGNMLG,Campanulaceae,BGN:MLG,1,"Pe??a Santorcuator, Ezcaray, c. 980 m",-3.00152778,42.3325,,,Cristina Roquet,1,0,,,,
+Campanula_isophylla361389CLA001550BGNMME,Campanula_isophylla361389CLA001550BGNMME,Campanulaceae,BGN:MME,1,"Chiesa S. Lorenzo, Varigotti, Italy",8.3927594,44.1818064,,,Cristina Roquet,1,0,,,,
+Campanula_jaubertiana1907869CLA001551BGNMQT,Campanula_jaubertiana1907869CLA001551BGNMQT,Campanulaceae,BGN:MQT,1,Pedraforca,,,,,Llorenc Saez,1,0,,,,
+Campanula_jaubertiana1907869CLA001552BGNMQV,Campanula_jaubertiana1907869CLA001552BGNMQV,Campanulaceae,BGN:MQV,1,Pedraforca,,,,,Llorenc Saez,0,0,,,,
+Campanula_jaubertiana1907869CLA001553BGNMRA,Campanula_jaubertiana1907869CLA001553BGNMRA,Campanulaceae,BGN:MRA,1,Pedraforca,,,,,Llorenc Saez,0,0,,,,
+Campanula_jaubertiana1907869CLA001554BGNMRB,Campanula_jaubertiana1907869CLA001554BGNMRB,Campanulaceae,BGN:MRB,1,Pineta,,,,,Llorenc Saez,0,0,,,,
+Campanula_jaubertiana1907869CLA001555BGNMRC,Campanula_jaubertiana1907869CLA001555BGNMRC,Campanulaceae,BGN:MRC,1,Pineta,,,,,Llorenc Saez,0,0,,,,
+Campanula_jaubertiana1907869CLA001556BGNMRD,Campanula_cochlearifolia1907869CLA001556BGNMRD,Campanulaceae,BGN:MRD,1,Turb??n,,,,,Llorenc Saez,0,0,,,,
+Campanula_jaubertiana1907869CLA001557BGNMRE,Campanula_jaubertiana1907869CLA001557BGNMRE,Campanulaceae,BGN:MRE,1,Turb??n,,,,,Llorenc Saez,0,0,,,,
+Campanula_lasiocarpa61250TROM_V_135750BXACLG,Campanula_lasiocarpa61250TROM_V_135750BXACLG,Campanulaceae,,1,,,,,,TROM,0,0,,,,
+Campanula_latifolia239410PHA001558BGNA,Campanula_latifolia_latifolia239410PHA001558BGNA,Campanulaceae,BGN:A,1,Is??re (FR). Sarcenas. ,5.7361869983,45.326275997,866497.927,2041960.692,Jean-Charles Villaret,0,0,,,,
+Campanula_latifolia239410PHA001559RSZRSZAXPI000836-32,Campanula_latifolia_latifolia239410PHA001559RSZRSZAXPI000836-32,Campanulaceae,RSZ:RSZAXPI000836-32,1,,,,,,,0,0,,,,
+Campanula_latifolia239410TROM_V_965917BXABHS,Campanula_latifolia_latifolia239410TROM_V_965917BXABHS,Campanulaceae,,1,,,,,,TROM,0,0,,,,
+Campanula_latifolia_ssp_Macrantha239410TROM_V_968319BXACCE,Campanula_latifolia_macrantha239410TROM_V_968319BXACCE,Campanulaceae,,1,,,,,,TROM,0,0,,,,
+Campanula_lingulata1241120CAR001560BGNLMI,Campanula_lingulata1241120CAR001560BGNLMI,Campanulaceae,BGN:LMI,1,"Mehedin?>i Plateau, Cracul Crucii, 130 m, Carpathians, Romania",22.52808,44.68007,,,Bogdan Hurdu,0,0,,,,
+Campanula_macrorhiza1241126PHA001562RSZRSZAXPI000862-104,Campanula_macrorhiza1241126PHA001562RSZRSZAXPI000862-104,Campanulaceae,RSZ:RSZAXPI000862-104,1,Bouches-du-Rh??ne (FR). Marseille 09. Marseilleveyre,5.366016063,43.2270796368,846489.84,1807482.08,Sebastien Lavergne,1,0,,,,
+Campanula_marchesettii361392CLA001564BGNMPC,Campanula_marchesettii361392CLA001564BGNMPC,Campanulaceae,BGN:MPC,1,Slovenija (SVN). Grosuplje. Rock in clearing way up to Kucelj,13.8265986,45.9288731,,,Jan Smycka,1,0,,,,
+Campanula_marchesettii361392CLA001565BGNMPD,Campanula_rotundifolia_sl361392CLA001565BGNMPD,Campanulaceae,BGN:MPD,1,"Primorsko-goranska, Croatie (HRV). Rock by the gravel road way to ??unina glava.",14.4650433,45.4284067,,,Jan Smycka,0,0,,,,
+Campanula_martinii1488314CLA001566BGNMND,Campanula_martinii1488314CLA001566BGNMND,Campanulaceae,BGN:MND,1,Vegagna,10.596667,45.753889,,,Kristyna Semberova,1,0,,,,
+Campanula_medium56154PHA001567RSZRSZAXPI000794-21,Campanula_medium56154PHA001567RSZRSZAXPI000794-21,Campanulaceae,RSZ:RSZAXPI000794-21,1,Alpes-de-Haute-Provence (FR). Claret.,5.9841600008,44.3753999975,890826.661,1937226.819,Luc Garraud,0,0,,,,
+Campanula_micrantha1241130CLA001569BGNMPE,Campanula_micrantha1241130CLA001569BGNMPE,Campanulaceae,BGN:MPE,1,"Meadows over Prati di Tivo, way from Ref. Garibaldi, 1700 m asl",13.5416178,42.4735572,,,Jan Smycka,1,0,,,,
+Campanula_micrantha1241130CLA001570BGNMPF,Campanula_micrantha1241130CLA001570BGNMPF,Campanulaceae,BGN:MPF,1,"Under the cascades way from Ref. Garibaldi, cca 1500 m asl",13.5505872,42.4942869,,,Jan Smycka,0,0,,,,
+Campanula_morettiana361393PHA001572BGNPH,Campanula_morettiana361393PHA001572BGNPH,Campanulaceae,BGN:PH,1,"Dolomites (IT). Lagozuoi, beim Tunnel.",12.03809,46.527011,,,Adrian Moehl,0,0,,,,
+Campanula_persicifolia239416CAR001583BGNLML,Campanula_persicifolia239416CAR001583BGNLML,Campanulaceae,BGN:LML,1,"Mehedin?>i Plateau, Cracul Crucii, 250 m, Carpathians, Romania",22.5316,44.67974,,,Bogdan Hurdu,0,0,,,,
+Campanula_persicifolia239416PHA001579BGNLV,Campanula_persicifolia239416PHA001579BGNLV,Campanulaceae,BGN:LV,1,Alpes-Maritimes (FR). La Brigue.,7.6264,44.04479,,,CBNM,0,0,,,,
+Campanula_persicifolia239416TROM_V_56439BXABHR,Campanula_persicifolia239416TROM_V_56439BXABHR,Campanulaceae,,1,,,,,,TROM,0,0,,,,
+Campanula_petraea239417PHA001585BGNINM,Campanula_petraea239417PHA001585BGNINM,Campanulaceae,BGN:INM,1,"?-stlich Monte Baldo (IT). Spiazzi, Mauer im Dorfzentrum.",10.854651,45.643291,,,Adrian Moehl,0,0,,,,
+Campanula_praesignis1532303PHA001586BGNALG,Campanula_praesignis1532303PHA001586BGNALG,Campanulaceae,BGN:ALG,1,,,,,,,1,0,,,,
+Campanula_precatoria1904712CLA001588BGNMLH,Campanula_precatoria1904712CLA001588BGNMLH,Campanulaceae,BGN:MLH,1,A 10 m de Presa de Montalto (c. 1390 m),1.31291667,42.6715,,,Cristina Roquet,1,0,,,,
+Campanula_pseudostenocodon1241155CLA001589BGNMPG,Campanula_pseudostenocodon1241155CLA001589BGNMPG,Campanulaceae,BGN:MPG,1,"From Teramo to Aritschia on 21th kilometer, reinforced slope on the other side to a small parking lot.",13.3420938,42.441726,,,Jan Smycka,1,0,,,,
+Campanula_pulla361396PHA001590BGNNF,Campanula_pulla361396PHA001590BGNNF,Campanulaceae,BGN:NF,1,,,,,,,0,0,,,,
+Campanula_pyramidalis239419PHA001592BGNPK,Campanula_pyramidalis239419PHA001592BGNPK,Campanulaceae,BGN:PK,1,,,,,,,0,0,,,,
+Campanula_raineri361397CLA001596BGNMNE,Campanula_rotundifolia_sl361397CLA001596BGNMNE,Campanulaceae,BGN:MNE,1,St Anna,9.21823,46.155667,,,Kristyna Semberova,0,0,,,,
+Campanula_raineri361397PHA001594BGNPL,Campanula_raineri361397PHA001594BGNPL,Campanulaceae,BGN:PL,1,,,,,,,0,0,,,,
+Campanula_rapunculoides209536PHA001597RSZRSZAXPI001156-101,Campanula_rapunculoides209536PHA001597RSZRSZAXPI001156-101,Campanulaceae,RSZ:RSZAXPI001156-101,1,Hautes-Alpes (FR). Rabou.,6.0091800029,44.5745599981,891785.826,1959441.854,CBNA,0,0,,,,
+Campanula_rapunculoides209536TROM_V_966190BXABHQ,Campanula_rapunculoides209536TROM_V_966190BXABHQ,Campanulaceae,,1,,,,,,TROM,0,0,,,,
+Campanula_rapunculus428196PHA001598RSZRSZAXPI000797-24,Campanula_rapunculus428196PHA001598RSZRSZAXPI000797-24,Campanulaceae,RSZ:RSZAXPI000797-24,1,Alpes-de-Haute-Provence (FR). Corbi??res.,5.74631,43.7488,,,Jeremie Van Es,0,0,,,,
+Campanula_rhomboidalis649663PHA001600BGNIK,Campanula_rhomboidalis649663PHA001600BGNIK,Campanulaceae,BGN:IK,1,Hautes-Alpes (FR). Villard-d'Ar??ne. Col du Lautaret.,6.4019738005,45.0364219287,920311.96,2012259.64,SAJF,1,0,,,,
+Campanula_romanica1241161CAR001602BGNNAD,Campanula_romanica1241161CAR001602BGNNAD,Campanulaceae,BGN:NAD,1,"M??cin Moutains, Recifii Jurasici-Cheia, Dobrogea, Romania",28.423588,44.504905,,,P Anastasiu,1,0,,,,
+Campanula_rotundifolia239422CLA001606BGNMLI,Campanula_scheuchzeri_sl239422CLA001606BGNMLI,Campanulaceae,BGN:MLI,1,Pujada a Portarr?? d'Espot (c. 2200m) ,0.98272222,42.58130556,,,Cristina Roquet,0,0,,,,
+Campanula_rotundifolia239422CLA001607BGNMNF,Campanula_cespitosa239422CLA001607BGNMNF,Campanulaceae,BGN:MNF,1,Eastern slope of Kucelj,13.8257939,45.9289103,,,Jan Smycka,0,0,,,,
+Campanula_rotundifolia239422CLA001608BGNMNG,Campanula_cochlearifolia239422CLA001608BGNMNG,Campanulaceae,BGN:MNG,1,Path between Babin Vrh and Vaganski Vrh in Paklenica,15.4946944,44.3687778,,,Jan Smycka,0,0,,,,
+Campanula_rotundifolia239422CLA001609BGNMPH,Campanula_velebitica239422CLA001609BGNMPH,Campanulaceae,BGN:MPH,1,"Slope by the dirt road from Ba???!ke O???!tarje to Ruji?""?in Kuk",15.11403,44.5635167,,,Jan Smycka,1,0,,,,
+Campanula_rotundifolia239422CLA001611BGNMPK,Campanula_rotundifolia_sl239422CLA001611BGNMPK,Campanulaceae,BGN:MPK,1,"Just under the cascades way from Rif. Garibaldi, cca 1500 m asl",13.543025,42.4861625,,,Jan Smycka,0,0,,,,
+Campanula_rotundifolia239422CLA001612BGNMPL,Campanula_scheuchzeri_sl239422CLA001612BGNMPL,Campanulaceae,BGN:MPL,1,In a rock crack on boulder close to Midjor summit,22.6805483,43.3944567,,,Jan Smycka,0,0,,,,
+Campanula_rotundifolia239422CLA001613BGNMPM,Campanula_scheuchzeri_sl239422CLA001613BGNMPM,Campanulaceae,BGN:MPM,1,"By the dirt road, close to second peak in direction from Babin Zub to Midjor",22.63595,43.3932383,,,Jan Smycka,0,0,,,,
+Campanula_rotundifolia239422CLA001615BGNMPP,Campanula_rotundifolia_ss239422CLA001615BGNMPP,Campanulaceae,BGN:MPP,1,CZ Chodov???! Plan???!,12.7264533,49.8933467,,,Kristyna Semberova,1,0,,,,
+Campanula_rotundifolia239422PHA001605BGNPM,Campanula_rotundifolia_sl239422PHA001605BGNPM,Campanulaceae,BGN:PM,1,,,,,,Linda Feichtinger,0,0,,,,
+Campanula_rotundifolia239422TROM_V_146425BMBGG,Campanula_gieseckiana239422TROM_V_146425BMBGG,Campanulaceae,,1,,,,,,TROM,1,0,,,,
+Campanula_rotundifolia_polymorpha1851339CAR001616BGNLMM,Campanula_tatrae1851339CAR001616BGNLMM,Campanulaceae,BGN:LMM,1,"Cozia Mts., Bulzu peak, north face, 1460 m, Carpathians, Romania",24.3490833333,45.3163611111,,,Bogdan Hurdu,0,0,,,,
+Campanula_rotundifolia_polymorpha1851339CAR001618BGNNAE,Campanula_tatrae1851339CAR001618BGNNAE,Campanulaceae,BGN:NAE,1,"Piatra Craiului Mts., between Zaplaz and Marele Grohoti??, Carpathians, Romania",25.19765,45.52139,,,Bogdan Hurdu,0,0,,,,
+Campanula_rotundifolia_sudetica1904713CLA001620BGNMNH,Campanula_rotundifolia_sudetica1904713CLA001620BGNMNH,Campanulaceae,BGN:MNH,1,Jesen????ky Tabulov???? sk???!ly,17.2309239,50.0866989,,,Kristyna Semberova,1,0,,,,
+Campanula_sabatia1241166PHA001621BGNKHL,Campanula_sabatia1241166PHA001621BGNKHL,Campanulaceae,BGN:KHL,1,Liguria (IT). Diano Arentino.,8.0379,43.9445,,,"Diano Arentino, Gabriele Casazza",1,0,,,,
+Campanula_scheuchzeri361399CLA001626BGNMNI,Campanula_scheuchzeri361399CLA001626BGNMNI,Campanulaceae,BGN:MNI,1,Sant Bernard,7.191412,45.898366,,,Kristyna Semberova,1,0,,,,
+Campanula_scheuchzeri361399PHA001624BGNIL,Campanula_scheuchzeri361399PHA001624BGNIL,Campanulaceae,BGN:IL,1,Hautes-Alpes (FR). Villard-d'Ar??ne. Col du Lautaret.,6.4019738005,45.0364219287,920311.96,2012259.64,SAJF,0,0,,,,
+Campanula_serrata1241174CAR001627BGNLMN,Campanula_serrata1241174CAR001627BGNLMN,Campanulaceae,BGN:LMN,1,"F??g??ra?? Mts, Vi??tea Mare Valley, 1830 m, Carpathians, Romania",24.740484,45.61078,,,Bogdan Hurdu,1,0,,,,
+Campanula_serrata1241174CLA001628BGNMNK,Campanula_serrata1241174CLA001628BGNMNK,Campanulaceae,BGN:MNK,1,"Tatry, Strbske pleso",20.046278,49.27111,,,Kristyna Semberova,0,0,,,,
+Campanula_sibirica_sibirica361413PHA001630RSZRSZAXPI000837-33,Campanula_sibirica_sibirica361413PHA001630RSZRSZAXPI000837-33,Campanulaceae,RSZ:RSZAXPI000837-33,1,,,,,,,0,0,,,,
+Campanula_spicata361401PHA001633RSZRSZAXPI000951-89,Campanula_spicata361401PHA001633RSZRSZAXPI000951-89,Campanulaceae,RSZ:RSZAXPI000951-89,1,Hautes-Alpes (FR). Saint-Chaffrey. Bois de l'Ours,6.6287543559,44.9182686774,938879.43,2000093.46,SAJF,0,0,,,,
+Campanula_stenocodon361402PHA001635BGNKG,Campanula_stenocodon361402PHA001635BGNKG,Campanulaceae,BGN:KG,1,Bouches-du-Rh??ne (FR). P??one. Col de Crous.,6.9045479881,44.14344865,965633.98,1915308.89,CBNM,1,0,,,,
+Campanula_stenocodonfasterisGWM1238,Campanula_stenocodonGWM1238,Campanulaceae,GWM:1238,1,,6.717911,44.889672,,,Rolland Douzet,0,0,,,,
+Campanula_tanfanii1241195CLA001638BGNMPQ,Campanula_scheuchzeri_sl1241195CLA001638BGNMPQ,Campanulaceae,BGN:MPQ,1,"On a meadow from Prati di Tivo to Madonnina, 1850 m asl",13.5643394,42.4887761,,,Jan Smycka,0,0,,,,
+Campanula_tanfanii1241195CLA001639BGNMPR,Campanula_tanfanii1241195CLA001639BGNMPR,Campanulaceae,BGN:MPR,1,Passo dei dui Corni,13.5619897,42.4743597,,,Jan Smycka,1,0,,,,
+Campanula_tatrae1904714CLA001640BGNMNM,Campanula_tatrae1904714CLA001640BGNMNM,Campanulaceae,BGN:MNM,1,Tatry Monkova dolina,20.225611,49.247333,,,Kristyna Semberova,1,0,,,,
+Campanula_thyrsoides_carniolica361403PHA001641BGNNG,Campanula_thyrsoides_carniolica361403PHA001641BGNNG,Campanulaceae,BGN:NG,1,9124,,,,,,0,0,,,,
+Campanula_thyrsoides_thyrsoides239427PHA001645RSZRSZAXPI000838-34,Campanula_thyrsoides_thyrsoides239427PHA001645RSZRSZAXPI000838-34,Campanulaceae,,1,,,,,,,0,0,,,,
+Campanula_trachelium85178PHA001648RSZRSZAXPI001141-133,Campanula_trachelium85178PHA001648RSZRSZAXPI001141-133,Campanulaceae,,1,,,,,,,0,0,,,,
+Campanula_transsilvanica1851340CAR001649BGNLMQ,Campanula_transsilvanica1851340CAR001649BGNLMQ,Campanulaceae,BGN:LMQ,1,"F??g??ra?? Mts, under Urlea peak, 2325 m, Carpathians, Romania",24.8330555556,45.5984722222,,,Bogdan Hurdu,0,0,,,,
+Campanula_witasekiana440364CLA001656BGNMNN,Campanula_witasekiana_Balkans440364CLA001656BGNMNN,Campanulaceae,BGN:MNN,1,Matorac,17.87525,43.92751,,,Kristyna Semberova,1,0,,,,
+Campanula_witasekiana440364PHA001653BGNNH,Campanula_witasekiana_Alps440364PHA001653BGNNH,Campanulaceae,BGN:NH,1,9083,,,,,,0,0,,,,
+Campanula_xylocarpa1241212CAR010088BGNNDF,Campanula_xylocarpa1241212CAR010088BGNNDF,Campanulaceae,BGN:NDF,1,"Slovakia (SK). Slovensk?? kras, B??rka, Carpathians",20.76186111,48.63463889,,,Patrik Mraz,1,0,,,,
+Campanula_xylocarpa1241212CLA001657BGNMPS,Campanula_xylocarpa1241212CLA001657BGNMPS,Campanulaceae,BGN:MPS,1,Slovakia (SK). Ple?!ivec,20.4055033,48.55255,,,Tomas Figura,0,0,,,,
+Campanula_zoysiifasterisGWM1246,Campanula_zoysiiGWM1246,Campanulaceae,GWM:1246,1,,,,,,,0,0,,,,
+Edraianthus_graminifolius103995CAR003183BGNLPD,Edraianthus_graminifolius103995CAR003183BGNLPD,Campanulaceae,BGN:LPD,1,"Apuseni Mts, Pietrele Negre limestone cliffs, 1280 m, Carpathians, Romania",22.6314166667,46.5207777778,,,Bogdan Hurdu,0,0,,,,
+Jasione_jankae1907888CAR004847BGNNBN,Jasione_jankae1907888CAR004847BGNNBN,Campanulaceae,BGN:NBN,0,"Alm??jului Mts., at the base of Trescov???> Mt., Carpathians, Romania",22.04227,44.56168,,,Bogdan Hurdu,0,0,,,,
+Jasione_montana239452PHA004848RSZRSZAXPI000947-85,Jasione_montana239452PHA004848RSZRSZAXPI000947-85,Campanulaceae,RSZ:RSZAXPI000947-85,0,Alpes-de-Haute-Provence (FR). Ongles.,5.6993738606,44.0115480472,869865.29,1895785.15,CBNA,0,0,,,,
+Legousia_falcata239455PHA005180BGNMC,Legousia_falcata239455PHA005180BGNMC,Campanulaceae,BGN:MC,1,Alpes-de-Haute-Provence (FR). La Palud-sur-Verdon. ,6.34843,43.742232,,,Jeremie Van Es,0,0,,,,
+Legousia_hybrida368679PHA005181BGNLI,Legousia_hybrida368679PHA005181BGNLI,Campanulaceae,BGN:LI,1,Alpes-de-Haute-Provence (FR). Banon. ,5.6054169981,44.056890002,862120.017,1900506.008,Jeremie Van Es,0,0,,,,
+Legousia_scabra1533168PHA005183BGNALC,Legousia_scabra1533168PHA005183BGNALC,Campanulaceae,BGN:ALC,1,Dr??me (FR). Malataverne.,4.758049,44.474175,,,Jeremie Van Es,0,0,,,,
+Legousia_speculum-veneris239456PHA005184RSZRSZAXPI000873-140,Legousia_speculum-veneris239456PHA005184RSZRSZAXPI000873-140,Campanulaceae,RSZ:RSZAXPI000873-140,1,Hautes-Alpes (FR). R??otier. Plan de Phasy.,6.6030670827,44.6596923654,938412.92,1971276.29,PNE,0,0,,,,
+Physoplexis_comosa239466PHA006631BGNLA,Physoplexis_comosa239466PHA006631BGNLA,Campanulaceae,BGN:LA,1,Trentino-Alto Adige (IT). Alba de Canazei. Dolomites,11.858826,46.455772,,,Rolland Douzet,0,0,,,,
+Phyteuma_betonicifolium649683PHA006637BGNPV,Phyteuma_betonicifolium649683PHA006637BGNPV,Campanulaceae,BGN:PV,1,Canton des Grisons (CH). Puschlav. Albert??sc.,9.96482,46.41354,,,Adrian Moehl,0,1,,,,
+Phyteuma_charmelii1399303PHA006639BGNHT,Phyteuma_charmelii1399303PHA006639BGNHT,Campanulaceae,BGN:HT,1,Hautes-Alpes (FR). Ch??teauroux-les-Alpes. Plateau d'Herbonne.,6.5385952588,44.6197141799,933541.52,1966562.03,PNE,0,1,,,,
+Phyteuma_confusum1399304PHA006641BGNNL,Phyteuma_confusum1399304PHA006641BGNNL,Campanulaceae,BGN:NL,1,9073,,,,,,0,1,,,,
+Phyteuma_cordatum703219PHA006643BGNMA,Phyteuma_cordatum703219PHA006643BGNMA,Campanulaceae,BGN:MA,1,,7.5247984,44.0865262,,,CBNM,0,1,,,,
+Phyteuma_cordatumfasterisGWM1239,Phyteuma_cordatumGWM1239,Campanulaceae,GWM:1239,1,,7.4725517,43.9500768,,,"Monique Perfus, Remo Giordano",0,0,,,,
+Phyteuma_gallicum1399305CLA006646BGNMPV,Phyteuma_gallicum1399305CLA006646BGNMPV,Campanulaceae,BGN:MPV,1,nearby Larzier,3.7251311,44.5433233,,,Jan Smycka,0,1,,,,
+Phyteuma_globulariifolium_globulariifolium1399306PHA006647BGNQA,Phyteuma_globulariifolium_globulariifolium1399306PHA006647BGNQA,Campanulaceae,BGN:QA,1,Stilfser Joch (IT). Dreisprachenspitz.,10.48947,46.53234,,,Adrian Moehl,0,1,,,,
+Phyteuma_globulariifolium_pedemontanum1399307PHA006650BGNKL,Phyteuma_globulariifolium_pedemontanum1399307PHA006650BGNKL,Campanulaceae,BGN:KL,1,Bouches-du-Rh??ne (FR). P??one. Col de Crous.,6.9045479881,44.14344865,965633.98,1915308.89,CBNM,0,1,,,,
+Phyteuma_hedraianthifolium1399308PHA006651BGNQB,Phyteuma_hedraianthifolium1399308PHA006651BGNQB,Campanulaceae,BGN:QB,1,"Canton des Grisons (CH). Bernina. Diavolezza, untere Bahnstation.",9.98254,46.43061,,,Adrian Moehl,0,1,,,,
+Phyteuma_hemisphaericum649684PHA006653BGNKM,Phyteuma_hemisphaericum649684PHA006653BGNKM,Campanulaceae,BGN:KM,1,Is??re (FR). Ornon. La Grenoni??re,5.9564279036,45.0560571889,885133.53,2012724.18,PNE,0,1,,,,
+Phyteuma_humile1241226PHA006656BGNIQI,Phyteuma_humile1241226PHA006656BGNIQI,Campanulaceae,BGN:IQI,1,"Canton du Valais (CH). Zermatt. Gornegrat, Weg nach Ryffelberg",7.78933,45.97972,,,Adrian Moehl,0,1,,,,
+Phyteuma_michelii1399309PHA006658BGNIP,Phyteuma_michelii1399309PHA006658BGNIP,Campanulaceae,BGN:IP,1,Hautes-Alpes (FR). Villard-d'Ar??ne. Col du Lautaret.,6.4019738005,45.0364219287,920311.96,2012259.64,SAJF,0,1,,,,
+Phyteuma_micheliifasterisGWM1237,Phyteuma_micheliiGWM1237,Campanulaceae,GWM1237,1,,6.750584,44.255764,,,CBNM,0,0,,,,
+Phyteuma_nigrum1399310CLA006659BGNMQA,Phyteuma_nigrum1399310CLA006659BGNMQA,Campanulaceae,BGN:MQA,1,Botanial garden Charles University in Prague (original population likely from ??? umava),,,,,Jan Smycka,0,1,,,,
+Phyteuma_orbiculare239468CLA006663BGNMQB,Phyteuma_orbiculare239468CLA006663BGNMQB,Campanulaceae,BGN:MQB,1,A small pass way to Cunina Glava,14.4787667,45.436955,,,Jan Smycka,0,0,,,,
+Phyteuma_orbiculare239468CLA006664BGNMQC,Phyteuma_orbiculare239468CLA006664BGNMQC,Campanulaceae,BGN:MQC,1,"Trifurcation at a pass between Kom Kucki and Vasojevicki and the shepherd huts, 1900 m asl",19.6576617,42.6888533,,,Jan Smycka,0,0,,,,
+Phyteuma_orbiculare239468PHA006660RSZRSZAXPI000868-111,Phyteuma_orbiculare239468PHA006660RSZRSZAXPI000868-111,Campanulaceae,RSZ:RSZAXPI000868-111,1,Alpes-de-Haute-Provence (FR). Melve.,5.9875480024,44.3744579968,891101.459,1937134.717,Luc Garraud,0,1,,,,
+Phyteuma_orbicularefasterisGWM1241,Phyteuma_betonicifoliumGWM1241,Campanulaceae,GWM1241,1,,6.628749,44.918263,,,SAJF,0,0,,,,
+Phyteuma_ovatum1241227PHA006665BGNIT,Phyteuma_ovatum1241227PHA006665BGNIT,Campanulaceae,BGN:IT,1,Hautes-Alpes (FR). Val-des-Pr??s.,6.65527778,44.96694444,,,SAJF,0,1,,,,
+Phyteuma_pseudorbiculare1399312CLA006668BGNMQD,Phyteuma_pseudorbiculare1399312CLA006668BGNMQD,Campanulaceae,BGN:MQD,1,Meadows above the pass Cafa od Carina,19.6478917,42.67588,,,Jan Smycka,0,1,,,,
+Phyteuma_pyrenaicum1399313CLA006669BGNMLM,Phyteuma_pyrenaicum1399313CLA006669BGNMLM,Campanulaceae,BGN:MLM,1,"Plan dera Espona (pujada a Port de Vielha), c. 1900m",0.75394444,42.63725,,,Cristina Roquet,0,1,,,,
+Phyteuma_scheuchzeri_columnae1399314PHA006670BGNQC,Phyteuma_scheuchzeri_columnae1399314PHA006670BGNQC,Campanulaceae,BGN:QC,1,,,,,,,0,1,,,,
+Phyteuma_scheuchzeri_scheuchzeri1399315PHA006672BGNIQK,Phyteuma_scheuchzeri_scheuchzeri1399315PHA006672BGNIQK,Campanulaceae,BGN:IQK,1,Canton du Valais (CH). Simplon. Homatten. ,8.06747,46.19884,,,Adrian Moehl,0,1,,,,
+Phyteuma_scorzonerifolium1288169PHA006674BGNLR,Phyteuma_scorzonerifolium1288169PHA006674BGNLR,Campanulaceae,BGN:LR,1,Bouches-du-Rh??ne (FR). Tende. CMER6,7.6291167,44.1197167,,,CBNM,0,1,,,,
+Phyteuma_serratum1399316CLA010226BGNNFT,Phyteuma_serratum1399316CLA010226BGNNFT,Campanulaceae,BGN:NFT,1,"Ageu (Aseu?), Corse ",8.923848,42.390674,,,L Hugot,0,1,,,,
+Phyteuma_sieberi1399317PHA006676BGNQD,Phyteuma_sieberi1399317PHA006676BGNQD,Campanulaceae,BGN:QD,1,"Dolomites (IT). Oberhalb Gr??dner Joch, s??dlich, rechts vom Weg nach Pisciades",11.8228554726,46.554802666,,,Adrian Moehl,0,1,,,,
+Phyteuma_spicatum_coeruleum239469PHA006679RSZRSZAXPI000870-123,Phyteuma_spicatum_coeruleum239469PHA006679RSZRSZAXPI000870-123,Campanulaceae,RSZ:RSZAXPI000870-123,1,Is??re (FR). Vaulnaveys-le-Bas. Lac Luitel.,5.8488268607,45.0899025553,876495.59,2016098.54,SAJF,0,1,,,,
+Phyteuma_spicatum_spicatum239469PHA006680RSZRSZAXPI000866-108,Phyteuma_spicatum_spicatum239469PHA006680RSZRSZAXPI000866-108,Campanulaceae,RSZ:RSZAXPI000866-108,1,Hautes-Alpes (FR). Rabou.,6.0091800029,44.5745599981,891785.826,1959441.854,CBNA,0,1,,,,
+Phyteuma_tetramerum1399318CAR006683BGNMIR,Phyteuma_tetramerum1399318CAR006683BGNMIR,Campanulaceae,BGN:MIR,1,"Muntele Mare Massif, S??la??e Peak (Fr??sinet, Valea Ierii), Carpathians, Romania",23.3254347,46.6165242,,,Mihai Puscas,0,1,,,,
+Phyteuma_vagneri1399319CAR006686BGNMDR,Phyteuma_vagneri1399319CAR006686BGNMDR,Campanulaceae,BGN:MDR,1,"F??g??ra?? Mts, under Urlea peak, 2325 m, Carpathians, Romania",24.8330555556,45.5984722222,,,Bogdan Hurdu,0,1,,,,
+Phyteuma_villarsii1399320PHA006687BGNMD,Phyteuma_villarsii1399320PHA006687BGNMD,Campanulaceae,BGN:MD,1,Var (FR). Trigance. ,6.378454,43.743789,,,Jeremie Van Es,0,1,,,,
+Phyteuma_villarsiifasterisGWM1242,Phyteuma_villarsiiGWM1242,Campanulaceae,GWM1242,1,,6.7287,43.85054,,,CBNM,0,0,,,,
+Phyteuma_zahlbruckneri1399311PHA006689BGNIQL,Phyteuma_zahlbruckneri1399311PHA006689BGNIQL,Campanulaceae,BGN:IQL,1,"Monte Baldo (IT). Oberhalb Genziana, Prada.",10.784601,45.675587,,,Adrian Moehl,0,1,,,,
+Blackstonia_acuminata82735PHA001240BGNHS,Blackstonia_acuminata82735PHA001240BGNHS,Gentianaceae,BGN:HS,1,Alpes-Maritimes (FR). Clans. ,7.1372028341,44.0051959258,985172.21,1901070.18,CBNM,,,0,,,
+Centaurium_erythraea172057PHA002144BGNPN,Centaurium_erythraea172057PHA002144BGNPN,Gentianaceae,BGN:PN,1,,,,,,Linda Feichtinger,,,0,,,
+Centaurium_favargeri225560PHA002145BGNRP,Centaurium_favargeri225560PHA002145BGNRP,Gentianaceae,BGN:RP,1,Hautes-Alpes (FR). Valserres. Site de culture.,6.11790417,44.473392,,,CBNA,,,0,,,
+Centaurium_pulchellum172069PHA002148BGNLDV,Centaurium_pulchellum172069PHA002148BGNLDV,Gentianaceae,BGN:LDV,1,Savoie (FR). Si??voz. Les Cotilles.,5.857372,44.897562,,,Jean-Charles Villaret,,,0,,,
+Cicendia_filiformis82708PHA002354BGNLFS,Cicendia_filiformis82708PHA002354BGNLFS,Gentianaceae,BGN:LFS,1,,,,,,SAJF,,,0,,,
+Gentiana_acaulis49933PHA004007BGNIA,Gentiana_acaulis49933PHA004007BGNIA,Gentianaceae,BGN:IA,1,Alpes-Maritimes (FR). Beuil.,6.9481566592,44.1030639215,969383.9,1911028.8,CBNM,,,1,,,
+Gentiana_alpina49934PHA004011BGNPQ,Gentiana_alpina49934PHA004011BGNPQ,Gentianaceae,BGN:PQ,1,Canton du Tessin (CH). Gazzirola. Gipfelregion.,9.07261,46.11706,,,Adrian Moehl,,,1,,,
+Gentiana_angustifolia38849PHA004015BGNMH,Gentiana_angustifolia38849PHA004015BGNMH,Gentianaceae,BGN:MH,1,Isere (FR). Saint-And??ol.,5.54577,44.9322,,,Jean-Charles Villaret,,,1,,,
+Gentiana_asclepiadea49935PHA004020BGNLE,Gentiana_asclepiadea49935PHA004020BGNLE,Gentianaceae,BGN:LE,1,Isere (FR). La Ferriere. ,6.0906730052,45.2918259949,894448.815,2039399.839,Jean-Charles Villaret,,,1,,,
+Gentiana_bavarica49937PHA004027BGNIQ,Gentiana_bavarica49937PHA004027BGNIQ,Gentianaceae,BGN:IQ,1,Hautes-Alpes (FR). Villard-d'Arene. Col du Galibier.,6.3900665997,45.0524678788,919282.69,2013992.67,SAJF,,,1,,,
+Gentiana_brachyphylla49939PHA004030BGNIR,Gentiana_brachyphylla49939PHA004030BGNIR,Gentianaceae,BGN:IR,1,Hautes-Alpes (FR). Cervi??res. Col de l'Izoard.,6.735,44.81972222,,,SAJF,,,1,,,
+Gentiana_burserii38850CLA004032BGNMLK,Gentiana_burserii38850CLA004032BGNMLK,Gentianaceae,BGN:MLK,0,"A prop Estany Redon, sota Port de Vielha, 2290m",0.773472,42.63775,,,Cristina Roquet,,,1,,,
+Gentiana_clusii49942PHA004041BGNMR,Gentiana_clusii49942PHA004041BGNMR,Gentianaceae,BGN:MR,1,,,,,,,,,1,,,
+Gentiana_cruciata49943PHA004043BGNIS,Gentiana_cruciata_cruciata49943PHA004043BGNIS,Gentianaceae,BGN:IS,1,Hautes-Alpes (FR). Chateau-Ville-Vieille.,6.81777778,44.76222222,,,SAJF,,,0,,,
+Gentiana_dinarica49944CLA004046BGNNNB,Gentiana_dinarica49944CLA004046BGNNNB,Gentianaceae,BGN:NNB,1,Way to Kom Kucki before the first scree field,19.672915,42.697785,,,Jan Smycka,,,1,,,
+Gentiana_froelichii_froelichii1851362PHA004051BGNLKD,Gentiana_froelichii_froelichii1851362PHA004051BGNLKD,Gentianaceae,BGN:LKD,1,"?-sterreich (AT). Eisenkappel. Hochobir, ruine.",14.48,46.500523,,,Adrian Moehl,,,1,,,
+Gentiana_froelichii_zenariae49946PHA004053BGNITD,Gentiana_froelichii_zenariae49946PHA004053BGNITD,Gentianaceae,BGN:ITD,1,Friuli-Venezia Giulia  (IT). Cimolais. Valmenone.,12.49923,46.412231,,,Adrian Moehl,,,1,,,
+Gentiana_germanica49961PHA004054BGNALR,Gentiana_germanica49961PHA004054BGNALR,Gentianaceae,BGN:ALR,1,Canton de Berne (CH). Bueren an der Aare. Acker ausserhalb Dorf.,7.3577,47.13828,,,Adrian Moehl,,,0,,,
+Gentiana_ligustica49947PHA004058BGNIB,Gentiana_ligustica49947PHA004058BGNIB,Gentianaceae,BGN:IB,1,Alpes-Maritimes (FR). Beuil.,7.0037037475,44.0993300758,973852.61,1910876.83,CBNM,,,1,,,
+Gentiana_lutea_lutea553052PHA009971AXZH,Gentiana_lutea_lutea553052PHA009971AXZH,Gentianaceae,AXZ:H,1,"Canton de Bern (CH). Lenk/Iffigen, Iffigenalp Chalet Hildebrant.",,,,,,,,0,,,
+Gentiana_lutea_lutea553052PHA009971BGNFT,Gentiana_lutea_lutea553052PHA009971BGNFT,Gentianaceae,BGN:FT,1,"Canton de Bern (CH). Lenk/Iffigen, Iffigenalp Chalet Hildebrant.",,,,,,,,1,,,
+Gentiana_lutea_symphyandra1533082PHA004062BGNALT,Gentiana_lutea_symphyandra1533082PHA004062BGNALT,Gentianaceae,BGN:ALT,1,,,,,,,,,1,,,
+Gentiana_lutea_vardjanii1533083PHA004067BGNITE,Gentiana_lutea_vardjanii1533083PHA004067BGNITE,Gentianaceae,BGN:ITE,0,Slovenija (SVN). Crno Post. Aufstieg zum Gipfel.,13.892698,46.234597,,,Adrian Moehl,,,1,,,
+Gentiana_occidentalis38853CLA004074BGNMGB,Gentiana_occidentalis38853CLA004074BGNMGB,Gentianaceae,BGN:MGB,1,Hautes-Alpes (FR). Villar-dArene. Jardin alpin du Lautaret,,,,,SAJF,,,1,,,
+Gentiana_orbicularis1085736PHA004076BGNKC,Gentiana_orbicularis1085736PHA004076BGNKC,Gentianaceae,BGN:KC,1,Hautes-Alpes (FR). Villard-d'Arene. Col du Galibier.,6.408527154,45.0640078097,920669.05,2015349,SAJF,,,1,,,
+Gentiana_pannonica38854PHA004078BGNRL,Gentiana_pannonica38854PHA004078BGNRL,Gentianaceae,BGN:RL,1,,,,,,,,,1,,,
+Gentiana_pneumonanthe49950PHA004080BGNMS,Gentiana_pneumonanthe49950PHA004080BGNMS,Gentianaceae,BGN:MS,1,,,,,,,,,0,,,
+Gentiana_pneumonanthe49950TROM_V_70774BXAAKF,Gentiana_pneumonanthe49950TROM_V_70774BXAAKF,Gentianaceae,NA,1,,,,,,TROM,,,0,,,
+Gentiana_punctata49953PHA004087BGNIN,Gentiana_punctata49953PHA004087BGNIN,Gentianaceae,BGN:IN,1,Hautes-Alpes (FR). Villard-d'Arene. Col du Lautaret.,6.4019738005,45.0364219287,920311.96,2012259.64,SAJF,,,1,,,
+Gentiana_rostanii442720PHA004095BGNKH,Gentiana_rostanii442720PHA004095BGNKH,Gentianaceae,BGN:KH,1,Alpes-de-Haute-Provence (FR). Entraunes. Col de la Cayolle,6.7641056961,44.2499784771,953737.72,1926494.7,CBNM,,,1,,,
+Gentiana_schleicheri442721PHA004097BGNKI,Gentiana_schleicheri442721PHA004097BGNKI,Gentianaceae,BGN:KI,1,Bouches-du-Rhone (FR). P??one. Col de Crous.,6.9045479881,44.14344865,965633.98,1915308.89,CBNM,,,1,,,
+Gentiana_sierrae1085739CLA004100BGNMFV,Gentiana_sierrae1085739CLA004100BGNMFV,Gentianaceae,BGN:MFV,1,"Barranco de San Juan, Sierra Nevada c. 2500 m.",-3.3785,37.088,,,Cristina Roquet,,,1,,,
+Gentiana_tenella149054PHA004102BGNLSL,Gentiana_tenella149054PHA004102BGNLSL,Gentianaceae,BGN:LSL,1,Savoie (FR). Courchevel.,6.6103665178,45.3784198717,934649.39,2051092.7,CBNA,,,0,,,
+Gentiana_tergestina442724CLA004105BGNNTH,Gentiana_tergestina442724CLA004105BGNNTH,Gentianaceae,BGN:NTH,1,On NW ridge of Kucelj,45.9296619,13.82343,,,Jan Smycka,,,1,,,
+Gentiana_terglouensis49957PHA009972BGNNGK,Gentiana_terglouensis49957PHA009972BGNNGK,Gentianaceae,BGN:NGK,1,Venetie (IT). Cortina d'Ampezzo. 5 Torri.,46.508757,12.050578,,,Adrian Moehl,,,1,,,
+Gentiana_utriculosa49958CLA004112BGNMPT,Gentiana_utriculosa49958CLA004112BGNMPT,Gentianaceae,BGN:MPT,1,Way to Kom Kucki before the first scree field,19.672915,42.697785,,,Jan Smycka,,,0,,,
+Gentiana_utriculosa49958PHA004108BGNRM,Gentiana_utriculosa49958PHA004108BGNRM,Gentianaceae,BGN:RM,1,Savoie (FR). Planay.,6.8137689942,45.4324330008,950217.651,2057973.509,Jeremie van Es,,,1,,,
+Gentiana_verna38855CLA004113BGNMLL,Gentiana_verna_sl38855CLA004113BGNMLL,Gentianaceae,BGN:MLL,1,"Cima Sestil Alto, Valdecebollas, 2270 m",-4.3545,42.9665,,,Cristina Roquet,,,0,,,
+Gentiana_verna_delphinensis1085743PHA004114BGNKK,Gentiana_verna_delphinensis1085743PHA004114BGNKK,Gentianaceae,BGN:KK,1,Hautes-Alpes (FR). Orci??res. Serre Eyraud.,6.311374,44.653165,,,PNE,,,1,,,
+Gentiana_verna_verna553061PHA004117BGNMV,Gentiana_verna_verna553061PHA004117BGNMV,Gentianaceae,BGN:MV,1,,,,,,TROM,,,1,,,
+Gentiana_villarsii1533084PHA004118BGNALB,Gentiana_villarsii1533084PHA004118BGNALB,Gentianaceae,BGN:ALB,1,Bouches-du-Rhone (FR). Tende. ,7.482061,44.090001,,,Jeremie van Es,,,1,,,
+Gentianopsis_detonsa669700TROM_V_962238BXAAKD,Gentianopsis_detonsa669700TROM_V_962238BXAAKD,Gentianaceae,NA,1,,,,,,TROM,,,0,,,
+Lomatogonium_carinthiacum50277PHA005447BGNITP,Lomatogonium_carinthiacum50277PHA005447BGNITP,Gentianaceae,BGN:ITP,1,"Canton des Grisons (CH). Avers. Am Bach, bei Bruecke.",9.53709,46.45713,,,Adrian Moehl,,,0,,,
+Swertia_perennis39379PHA008990BGNGQ,Swertia_perennis39379PHA008990BGNGQ,Gentianaceae,BGN:GQ,1,Isere (FR). Clavans-en-Haut-Oisans. Col de Sarenne,6.142123,45.08226,,,Jean-Charles Villaret,,,0,,,
+Swertia_punctata1851450CAR008996BGNMFF,Swertia_punctata1851450CAR008996BGNMFF,Gentianaceae,BGN:MFF,1,"Fagaras Mts., Piatra Caprei limestone cliffs, Carpathians, Romania",24.8071111111,45.6291666667,,,Bogdan Hurdu,,,0,,,
+Anagallis_arvensis4337PHA000447BGNNS,Anagallis_arvensis4337PHA000447BGNNS,Primulaceae,BGN:NS,1,Canton d'Argovie (CH). Klingnau. Bahnhof.,8.25562,47.57733,,,Adrian Moehl,,,,0,0,
+Anagallis_foemina357596PHA000448BGNLM,Anagallis_foemina357596PHA000448BGNLM,Primulaceae,BGN:LM,1,,3.65582,49.36166,,,Sylvain Abdulhak,,,,0,0,
+Anagallis_tenella85162PHA000453BGNNT,Anagallis_tenella85162PHA000453BGNNT,Primulaceae,BGN:NT,1,Canton de Vaud (CH). Lausanne. Jardin botanique. ,6.62344,46.51362,,,Adrian Moehl,,,,0,0,
+Androsace_adfinis_adfinis229424PHA000473BGNKF,Androsace_adfinis_adfinis229424PHA000473BGNKF,Primulaceae,BGN:KF,1,Hautes-Alpes (FR). Orci??res. Serre Eyraud.,6.311374,44.653165,,,PNE,,,,1,0,
+Androsace_adfinis_brigantiaca229425PHA000475BGNIH,Androsace_adfinis_brigantiaca229425PHA000475BGNIH,Primulaceae,BGN:IH,1,Hautes-Alpes (FR). Cervi??res. Mont??e au Col de l'Izoard.,6.7351332017,44.8197753941,947882.034,1989624.524,SAJF,,,,1,0,
+Androsace_adfinis_puberula229426PHA000476BGNNV,Androsace_adfinis_puberula229426PHA000476BGNNV,Primulaceae,BGN:NV,1,Canton du Valais (CH). Col du Grand Saint Bernard. Kurz nach Passh??he.,7.27252,45.8697,,,Adrian Moehl,,,,1,0,
+Androsace_alpina199609PHA000477BGNLC,Androsace_alpina199609PHA000477BGNLC,Primulaceae,BGN:LC,1,Is??re (FR). Vaujany.,6.1144789936,45.1326909945,897164.396,2021819.441,Jean-Charles Villaret,,,,1,0,
+Androsace_brachystegia1851330CLA000481BGNLRI,Androsace_brachystegia1851330CLA000481BGNLRI,Primulaceae,BGN:LRI,1,Hautes-Alpes (FR). Villar-dAr??ne. Jardin alpin du Lautaret,,,,,,,,,0,0,
+Androsace_brevis229429PHA000482BGNPA,Androsace_brevis229429PHA000482BGNPA,Primulaceae,BGN:PA,1,Canton du Tessin (CH). Gazzirola. Gipfelregion.,9.07261,46.11706,,,Adrian Moehl,,,,1,0,
+Androsace_brevis229429PHA000485GWM1248,Androsace_brevis229429PHA000485GWM1248,Primulaceae,GWM:1248,1,Canton du Tessin (CH). Gazzirola. Gipfelregion.,9.07261,46.11706,,,Adrian Moehl,,,,0,0,
+Androsace_cantabrica229430CLA000486BGNMLA,Androsace_cantabrica229430CLA000486BGNMLA,Primulaceae,BGN:MLA,1,"Sestil Alto, a pocos metros de la cima, cara norte, c. 2075 m",-4.3542222,42.967,,,Cristina Roquet,,,,1,0,
+Androsace_carnea_rosea229439CLA000487BGNLRK,Androsace_laggeri229439CLA000487BGNLRK,Primulaceae,BGN:LRK,1,Hautes-Alpes (FR). Villar-dAr??ne. Jardin alpin du Lautaret,,,,,,,,,0,0,
+Androsace_chaixii229431PHA000489BGNLSE,Androsace_chaixii229431PHA000489BGNLSE,Primulaceae,BGN:LSE,0,Alpes-de-Haute-Provence (FR). Claret.,5.9841600008,44.3753999975,890826.661,1937226.819,Luc Garraud,,,,1,0,
+Androsace_chamaejasme175028CAR000493BGNMVL,Androsace_chamaejasme175028CAR000493BGNMVL,Primulaceae,BGN:MVL,1,"Mal?! Fatra, Mal?? Kriv?!??, Carpathians, Slovakia",19.0016166667,49.1874,,,Jozef Sibik,,,,0,0,
+Androsace_chamaejasme175028PHA000490BGNPB,Androsace_chamaejasme175028PHA000490BGNPB,Primulaceae,BGN:PB,1,,,,,,Linda Feichtinger,,,,0,0,
+Androsace_ciliata229432CLA000495BGNNMS,Androsace_ciliata229432CLA000495BGNNMS,Primulaceae,BGN:NMS,1,"Bisaur??n, 2580 m., rocky summit, limestone",-0.6431169,42.7877025,,,Cristina Roquet,,,,1,0,
+Androsace_cylindrica_hirtella522400CLA000498BGNPBH,Androsace_cylindrica_hirtella522400CLA000498BGNPBH,Primulaceae,BGN:PBH,1,"Archerito, 1970 m., cave in a cliff, limestone",-0.7009331,42.8797458,,,Cristina Roquet,,,,1,0,
+Androsace_cylindrica_subsp_willkommii229435CLA000501BGNNSP,Androsace_cylindrica_willkommii229435CLA000501BGNNSP,Primulaceae,BGN:NSP,1,"Pe??a Oroel, cerca cima, c. 1700 m",-0.53672222,42.51966667,,,Cristina Roquet,,,,1,0,
+Androsace_delavayi229436CLA000503BGNLRM,Androsace_delavayi229436CLA000503BGNLRM,Primulaceae,BGN:LRM,1,Hautes-Alpes (FR). Villar-dAr??ne. Jardin alpin du Lautaret,,,,,,,,,0,0,
+Androsace_halleri229439CLA000505BGNNML,Androsace_halleri_halleri229439CLA000505BGNNML,Primulaceae,BGN:NML,1,Puy Ferrand,2.82583333,45.52394444,,,Petr Koutecky,,,,1,0,
+Androsace_halleri229439CLA000506BGNNTD,Androsace_halleri_halleri229439CLA000506BGNNTD,Primulaceae,BGN:NTD,1,,2.67336111,45.11194444,,,Petr Koutecky,,,,0,0,
+Androsace_halleri_nuria1904702CLA000507BGNNLV,Androsace_halleri_nuria1904702CLA000507BGNNLV,Primulaceae,BGN:NLV,1,,,,,,Gerald Schneeweiss,,,,0,0,
+Androsace_halleri_nuria1904702CLA000508BGNNMA,Androsace_halleri_nuria1904702CLA000508BGNNMA,Primulaceae,BGN:NMA,1,,,,,,Gerald Schneeweiss,,,,1,0,
+Androsace_halleri_nuria1904702CLA000510BGNNMC,Androsace_halleri_nuria1904702CLA000510BGNNMC,Primulaceae,BGN:NMC,1,,,,,,Gerald Schneeweiss,,,,0,0,
+Androsace_halleri_nuria1904702CLA000511BGNNMD,Androsace_halleri_nuria1904702CLA000511BGNNMD,Primulaceae,BGN:NMD,1,,,,,,Gerald Schneeweiss,,,,0,0,
+Androsace_hausmannii229440PHA000512BGNPC,Androsace_hausmannii229440PHA000512BGNPC,Primulaceae,BGN:PC,1,"Dolomites (IT). Lagozuoi, Col du Bos.",12.064176,46.545698,,,Adrian Moehl,,,,1,0,
+Androsace_hedraeantha229441CLA000514BGNNTE,Androsace_hedraeantha229441CLA000514BGNNTE,Primulaceae,BGN:NTE,1,Serbie (SRB). Under a rock two hundreds meters south from summit of Midjor,22.6805483,43.3944567,,,Jan Smycka,,,,1,0,
+Androsace_helvetica199610CLA000520BGNETA,Androsace_helvetica199610CLA000520BGNETA,Primulaceae,BGN:ETA,1,"Montanui, Basib??, Tuca de Posolobino",,,,,,,,,1,0,
+Androsace_hirtella522400CLA000521BGNMBP,Androsace_cylindrica_hirtella522400CLA000521BGNMBP,Primulaceae,BGN:MBP,0,Hautes-Alpes (FR). Villar-dAr??ne. Jardin alpin du Lautaret,,,,,,,,,0,0,
+Androsace_lactea184984PHA000523BGNKT,Androsace_lactea184984PHA000523BGNKT,Primulaceae,BGN:KT,1,Is??re (FR). Corren??on-en-Vercors.,5.5401464039,45.003688578,852600,2005484,Sebastien Lavergne,,,,1,0,
+Androsace_lactiflora229445CLA000526BGNNMM,Androsace_lactiflora229445CLA000526BGNNMM,Primulaceae,BGN:NMM,1,Canada,-108.01666667,51.96666667,,,,,,,0,0,
+Androsace_laggeri229446CLA000527BGNNKE,Androsace_laggeri229446CLA000527BGNNKE,Primulaceae,BGN:NKE,1,Sota Portarr?? d'Espot (c. 2420 m),0.97433333,42.57908333,,,,,,,1,0,
+Androsace_mariae265245CLA000530BGNMBQ,Androsace_mariae265245CLA000530BGNMBQ,Primulaceae,BGN:MBQ,1,Hautes-Alpes (FR). Villar-dAr??ne. Jardin alpin du Lautaret,,,,,,,,,0,0,
+Androsace_mathildae229448CLA000531BGNMBR,Androsace_mathildae229448CLA000531BGNMBR,Primulaceae,BGN:MBR,1,Hautes-Alpes (FR). Villar-dAr??ne. Jardin alpin du Lautaret,,,,,,,,,0,0,
+Androsace_mathildae229448CLA000532BGNNMN,Androsace_mathildae229448CLA000532BGNNMN,Primulaceae,BGN:NMN,0,"200 m under summit of Gran Sasso, Italy",13.5621067,42.4717931,,,Jan Smycka,,,,1,0,
+Androsace_maxima229449PHA000534BGNPD,Androsace_maxima229449PHA000534BGNPD,Primulaceae,BGN:PD,1,Canton du Valais (CH). Leuk. Garten im Dorfzentrum.,7.63532,46.31724,,,Adrian Moehl,,,,0,0,
+Androsace_mucronifolia1851332CLA000535BGNLRQ,Androsace_mucronifolia1851332CLA000535BGNLRQ,Primulaceae,BGN:LRQ,1,Hautes-Alpes (FR). Villar-dAr??ne. Jardin alpin du Lautaret,,,,,,,,,0,0,
+Androsace_obtusifolia229450PHA000536BGNLP,Androsace_obtusifolia229450PHA000536BGNLP,Primulaceae,BGN:LP,1,Is??re (FR). Clavans-en-Haut-Oisans. Ch??teau-Noir.,6.133339,45.103806,6.133339,45.103806,Jean-Charles Villaret,,,,1,0,
+Androsace_primuloides229527CLA000539BGNLRR,Androsace_primuloides229527CLA000539BGNLRR,Primulaceae,BGN:LRR,1,Hautes-Alpes (FR). Villar-dAr??ne. Jardin alpin du Lautaret,,,,,,,,,0,0,
+Androsace_pubescens229451PHA000542GWM1247,Androsace_pubescens229451PHA000542GWM1247,Primulaceae,GWM:1247,0,Canton du Valais (CH). Leukerbad. Gemmi/L??mmernboden.,,,612120,138290,Adrian Moehl,,,,1,0,
+Androsace_rioxana229455CLA000545BGNNMF,Androsace_rioxana229455CLA000545BGNNMF,Primulaceae,BGN:NMF,1,,,,,,Gerald Schneeweiss,,,,1,0,
+Androsace_rioxana229455CLA000546BGNNMG,Androsace_rioxana229455CLA000546BGNNMG,Primulaceae,BGN:NMG,1,,,,,,Gerald Schneeweiss,,,,0,0,
+Androsace_rioxana229455CLA000547BGNNMH,Androsace_rioxana229455CLA000547BGNNMH,Primulaceae,BGN:NMH,1,,,,,,Gerald Schneeweiss,,,,0,0,
+Androsace_rioxana229455CLA000548BGNNMI,Androsace_rioxana229455CLA000548BGNNMI,Primulaceae,BGN:NMI,1,,,,,,Gerald Schneeweiss,,,,0,0,
+Androsace_sarmentosa764907CLA000550BGNLRS,Androsace_sarmentosa764907CLA000550BGNLRS,Primulaceae,BGN:LRS,1,Hautes-Alpes (FR). Villar-dAr??ne. Jardin alpin du Lautaret,,,,,,,,,0,0,
+Androsace_sempervivoides175029CLA000551BGNMBS,Androsace_sempervivoides175029CLA000551BGNMBS,Primulaceae,BGN:MBS,1,Hautes-Alpes (FR). Villar-dAr??ne. Jardin alpin du Lautaret,,,,,,,,,0,0,
+Androsace_septentrionalis184985PHA000552BGNIG,Androsace_septentrionalis184985PHA000552BGNIG,Primulaceae,BGN:IG,1,Hautes-Alpes (FR). Ristolas.,6.9659799956,44.7737399947,966420.299,1985563.472,CBNA,,,,0,0,
+Androsace_tanggulashanensis265253CLA000555BGNLRT,Androsace_tanggulashanensis265253CLA000555BGNLRT,Primulaceae,BGN:LRT,1,Hautes-Alpes (FR). Villar-dAr??ne. Jardin alpin du Lautaret,,,,,,,,,0,0,
+Androsace_tapete265249CLA000556BGNLRV,Androsace_tapete265249CLA000556BGNLRV,Primulaceae,BGN:LRV,1,Hautes-Alpes (FR). Villar-dAr??ne. Jardin alpin du Lautaret,,,,,,,,,0,0,
+Androsace_tapete265249CLA000557BGNMNP,Androsace_tapete265249CLA000557BGNMNP,Primulaceae,BGN:MNP,1,China,92.7269667,34.4706333,,,,,,,0,0,
+Androsace_vandelii229460ECVT00114GWM1208,Androsace_vandelii229460ECVT00114GWM1208,Primulaceae,GWM:1208,1,"Aguilles de lArgentiere, Belledonne",6.14,45.24,,,Sebastien Lavergne,,,,1,0,
+Androsace_vandellii229460PHA000559BGNLD,Androsace_vandellii229460PHA000559BGNLD,Primulaceae,BGN:LD,1,Is??re (FR). Clavans-en-Haut-Oisans. Ch??teau-Noir.,6.131786995,45.0973389948,898714.415,2017959.566,Jean-Charles Villaret,,,,0,0,
+Androsace_villosa229461CLA000566BGNMLB,Androsace_villosa229461CLA000566BGNMLB,Primulaceae,BGN:MLB,1,Portill??n al Castillo de Acher (2200 m),-0.67502778,42.82136111,,,Cristina Roquet,,,,0,0,
+Androsace_villosa229461CLA000567BGNMNQ,Androsace_villosa229461CLA000567BGNMNQ,Primulaceae,BGN:MNQ,1,"foot of south facing wall of Kom Kucki, by the path ",19.6407117,42.679705,,,Jan Smycka,,,,0,0,
+Androsace_villosa229461PHA000562RSZRSZAXPI000869-113,Androsace_villosa229461PHA000562RSZRSZAXPI000869-113,Primulaceae,RSZ:RSZAXPI000869-113,1,Alpes-Maritimes (FR). Beuil.,6.9267023333,44.0508533422,968006.28,1905131.05,CBNM,,,,0,0,
+Androsace_villosa_arachnoidea1907864CAR000568BGNMVM,Androsace_villosa_arachnoidea1907864CAR000568BGNMVM,Primulaceae,BGN:MVM,1,"Piatra Craiului Mts., between Zaplaz and Marele Grohoti??, Carpathians, Romania",25.19765,45.52139,,,Bogdan Hurdu,,,,0,0,
+Androsace_vitaliana_cinerea1534732PHA000570BGNAKP,Androsace_vitaliana_cinerea1534732PHA000570BGNAKP,Primulaceae,BGN:AKP,1,Hautes-Alpes (FR). Villard-d'Ar??ne. Col du Galibier.,6.408527154,45.0640078097,920669.05,2015349,SAJF,,,,1,0,
+Androsace_vitaliana_sesleri175111PHA000573BGNALL,Androsace_vitaliana_sesleri175111PHA000573BGNALL,Primulaceae,BGN:ALL,1,Dolomites (IT). Bindelweg. Oberhalb Rifugio Bindel.,11.841838,46.47697,,,Adrian Moehl,,,,1,0,
+Androsace_vitaliana_vitaliana439397PHA000574BGNMI,Androsace_vitaliana_vitaliana439397PHA000574BGNMI,Primulaceae,BGN:MI,1,Is??re (FR). Tr??minis.,5.80042,44.7067,,,Jean-Charles Villaret,,,,1,0,
+Androsace_wulfeniana229462PHA000577BGNNC,Androsace_wulfeniana229462PHA000577BGNNC,Primulaceae,BGN:NC,1,,,,,,,,,,1,0,
+Androsace_zambalensis229463CLA000581BGNLSB,Androsace_zambalensis229463CLA000581BGNLSB,Primulaceae,BGN:LSB,1,Hautes-Alpes (FR). Villar-dAr??ne. Jardin alpin du Lautaret,,,,,,,,,0,0,
+Coris_monspeliensis59972PHA002524BGNHN,Coris_monspeliensis59972PHA002524BGNHN,Primulaceae,BGN:HN,1,Bouches-du-Rh??ne (FR). Marseille 09. Callelongue,5.3550948723,43.2145564774,845655.18,1806055.15,Sebastien Lavergne,,,,0,0,
+Cortusa_matthioli55385PHA002555BGNLN,Cortusa_matthioli55385PHA002555BGNLN,Primulaceae,BGN:LN,1,Savoie (FR). Val-d'Is??re.,7.0399600048,45.4538000014,967748.159,2061377.517,,,,,0,0,
+Cyclamen_purpurascens87532PHA002728BGNPP,Cyclamen_purpurascens87532PHA002728BGNPP,Primulaceae,BGN:PP,1,Canton du Tessin (CH). Rovio. Auf Weg zum Wasserfall. ,8.99409,45.93139,,,Adrian Moehl,,,,0,0,
+Douglasia_alaskana159000CLA003042BGNNMQ,Douglasia_alaskana159000CLA003042BGNNMQ,Primulaceae,BGN:NMQ,1,Alaska,-152.571,62.53283333,,,,,,,0,0,
+Douglasia_arctica229464CLA003043BGNNTF,Douglasia_arctica229464CLA003043BGNNTF,Primulaceae,BGN:NTF,1,Alaska,-143.04928333,65.596,,,,,,,0,0,
+Douglasia_beringensis159001CLA003044BGNMNR,Douglasia_beringensis159001CLA003044BGNMNR,Primulaceae,BGN:MNR,1,Alaska,-159.88333333,64.51666667,,,,,,,0,0,
+Douglasia_gormanii229465CLA003045BGNMNS,Douglasia_gormanii229465CLA003045BGNMNS,Primulaceae,BGN:MNS,1,Alaska,-143.08573333,64.96646667,,,,,,,0,0,
+Douglasia_idahoensis229466CLA003046BGNNMV,Douglasia_idahoensis229466CLA003046BGNNMV,Primulaceae,BGN:NMV,1,Idaho,,,,,,,,,0,0,
+Hottonia_palustris175037PHA004642GWM1240,Hottonia_palustris175037PHA004642GWM1240,Primulaceae,GWM:1240,1,,4.92172,46.3618,,,Gilles Pache,,,,0,0,
+Lysimachia_nemorum110756PHA005576BGNRQ,Lysimachia_nemorum110756PHA005576BGNRQ,Primulaceae,BGN:RQ,1,"Canton de Bern (CH). Eriz, n??rdl. Rotmoos.",7.8316,46.79749,,,,,,,0,0,
+Lysimachia_nummularia175113PHA005579BGNNA,Lysimachia_nummularia175113PHA005579BGNNA,Primulaceae,BGN:NA,1,,,,,,,,,,0,0,
+Lysimachia_punctata213289PHA005581BGNPS,Lysimachia_punctata213289PHA005581BGNPS,Primulaceae,BGN:PS,1,Canton de Zurich (CH). K??snacht. Schmalzgrueb.,8.73927,47.31911,,,Adrian Moehl,,,,0,0,
+Lysimachia_thyrsiflora174664PHA005583BGNPT,Lysimachia_thyrsiflora174664PHA005583BGNPT,Primulaceae,BGN:PT,1,,,,,,,,,,0,0,
+Lysimachia_thyrsiflora174664TROM_V_700160BMBKI,Lysimachia_thyrsiflora174664TROM_V_700160BMBKI,Primulaceae,,1,,,,,,TROM,,,,0,0,
+Lysimachia_thyrsiflora174664TROM_V_990720BXABHB,Lysimachia_thyrsiflora174664TROM_V_990720BXABHB,Primulaceae,,1,,,,,,TROM,,,,0,0,
+Lysimachia_vulgaris191068PHA005585BGNHR,Lysimachia_vulgaris191068PHA005585BGNHR,Primulaceae,BGN:HR,1,Is??re (FR). Gi??res. Campus universitaire. LECA,5.7771938769,45.1933525663,870356.92,2027338.44,Sebastien Lavergne,,,,0,0,
+Primula_acaulis175104PHA007169RSZRSZAXPI000864-106,Primula_acaulis175104PHA007169RSZRSZAXPI000864-106,Primulaceae,RSZ:RSZAXPI000864-106,1,Is??re (FR). Gi??res. Campus universitaire. LECA,5.7771938769,45.1933525663,870356.92,2027338.44,Sebastien Lavergne,,,,0,0,
+Primula_albenensis184170PHA007171BGNQE,Primula_albenensis184170PHA007171BGNQE,Primulaceae,BGN:QE,1,,,,,,,,,,0,1,
+Primula_allionii184171PHA007173BGNGR,Primula_allionii184171PHA007173BGNGR,Primulaceae,BGN:GR,1,Alpes-Maritimes (FR). La Brigue.,7.5705167,44.0448,,,CBNM,,,,0,1,
+Primula_apennina184172CLA007175BGNMQE,Primula_apennina184172CLA007175BGNMQE,Primulaceae,BGN:MQE,1,Northern slope under summit of Orsaro,9.9912025,44.4101178,,,Jan Smycka,,,,0,1,
+Primula_auricula184173PHA007176BGNLF,Primula_auricula184173PHA007176BGNLF,Primulaceae,BGN:LF,1,Is??re (FR). Saint-Pierre-de-Chartreuse. Charmant Som,5.7624039971,45.3208589949,868578.018,2041448.318,Jean-Charles Villaret,,,,0,1,
+Primula_auricula_balbisii1671095PHA007178BGNKLQ,Primula_auricula1671095PHA007178BGNKLQ,Primulaceae,BGN:KLQ,1,"Dolomites (IT). Lagozuoi, beim Tunnel.",12.03809,46.527011,,,Adrian Moehl,,,,0,0,
+Primula_auricula_serratifolia1851390CAR007183GWM1418,Primula_auricula_sl1851390CAR007183GWM1418,Primulaceae,GWM:1418,1,"Mehedin?>i Mts, Domogledul Mare peak, 1100 m, Carpathians, Romania",22.444078,44.871247,,,Bogdan Hurdu,,,,0,0,
+Primula_carniolica184180CLA007187BGNMQF,Primula_carniolica184180CLA007187BGNMQF,Primulaceae,BGN:MQF,1,"rocks on banks of Divlje jezero, Slovenia",14.0277525,45.9821922,,,Jan Smycka,,,,0,1,
+Primula_carniolica184180CLA007188BGNMQG,Primula_carniolica184180CLA007188BGNMQG,Primulaceae,BGN:MQG,1,"rocks on banks of Divlje jezero, Slovenia",14.0277525,45.9821922,,,Jan Smycka,,,,0,0,
+Primula_clusiana159004PHA007189BGNLDS,Primula_clusiana159004PHA007189BGNLDS,Primulaceae,BGN:LDS,1,,,,,,,,,,0,1,
+Primula_daonensis184181PHA007191BGNQF,Primula_daonensis184181PHA007191BGNQF,Primulaceae,BGN:QF,1,Canton des Grisons (CH). St. Maria Val M??stair. Unterhalb Umbrailpass.,10.43536,46.54585,,,Adrian Moehl,,,,0,1,
+Primula_deorum175056CLA007193BGNMQH,Primula_deorum175056CLA007193BGNMQH,Primulaceae,BGN:MQH,1,"by Dolnoto jezero, in the outlet under krummholz",23.326155,42.21262,,,Jan Smycka,,,,0,1,
+Primula_egaliksensis175058TROM_V_135923BXACKU,Primula_egaliksensis175058TROM_V_135923BXACKU,Primulaceae,,1,,,,,,TROM,,,,0,0,
+Primula_elatior_elatior1049949PHA007194BGNME,Primula_elatior_elatior1049949PHA007194BGNME,Primulaceae,BGN:ME,1,Is??re (FR). Bressieux.,5.27169,45.32,,,Jean-Charles Villaret,,,,0,0,
+Primula_elatior_intricata1050975CAR007199BGNMED,Primula_elatior_intricata1050975CAR007199BGNMED,Primulaceae,BGN:MED,1,"Piatra Craiului Massif, under Ascu?>it peak, 1750 m, Carpathians, Romania",25.226573,45.535243,,,Bogdan Hurdu,,,,0,0,
+Primula_elatior_intricata1050975PHA007197BGNKN,Primula_elatior_intricata1050975PHA007197BGNKN,Primulaceae,BGN:KN,1,Bouches-du-Rh??ne (FR). P??one. Col de Crous.,6.9045479881,44.14344865,965633.98,1915308.89,CBNM,,,,0,0,
+Primula_elatior_leucophylla1049950CAR007201BGNMEE,Primula_elatior_leucophylla1049950CAR007201BGNMEE,Primulaceae,BGN:MEE,1,"Ceahl??u Mts, Toaka peak, 1850 m, Carpathians, Romania",25.949749,46.977013,,,Filipa?? L,,,,0,0,
+Primula_farinosa133892PHA007202BGNIC,Primula_farinosa133892PHA007202BGNIC,Primulaceae,BGN:IC,1,Alpes-Maritimes (FR). Beuil.,6.9481566592,44.1030639215,969383.9,1911028.8,CBNM,,,,0,0,
+Primula_glaucescens184182PHA007204BGNLSH,Primula_glaucescens184182PHA007204BGNLSH,Primulaceae,BGN:LSH,1,,,,,,,,,,0,1,
+Primula_glutinosa159007PHA007206BGNQG,Primula_glutinosa159007PHA007206BGNQG,Primulaceae,BGN:QG,1,Canton des Grisons (CH). St. Maria Val M??stair. Zwischen Zollhaus Umbrail und Stilfserjoch,10.44386,46.53329,,,Adrian Moehl,,,,0,1,
+Primula_grignensis1384030PHA007208BGNQH,Primula_grignensis1384030PHA007208BGNQH,Primulaceae,BGN:QH,1,,,,,,,,,,0,1,
+Primula_halleri175072PHA007209BGNMK,Primula_halleri175072PHA007209BGNMK,Primulaceae,BGN:MK,1,Hautes-Alpes (FR). Saint-V??ran. Col Agnel.,6.95412,44.69536,,,CBNA,,,,0,0,
+Primula_hirsuta184183PHA007211BGNKD,Primula_hirsuta184183PHA007211BGNKD,Primulaceae,BGN:KD,1,Hautes-Alpes (FR). Villar-d'Ar??ne. Pied du Col,6.359453,45.03147,,,SAJF,,,,0,1,
+Primula_integrifolia175074PHA007216BGNLG,Primula_integrifolia175074PHA007216BGNLG,Primulaceae,BGN:LG,1,Is??re (FR). Gresse-en-Vercors. Pierre Blanche,5.5221369936,44.890224997,851691.767,1992822.319,Jean-Charles Villaret,,,,0,1,
+Primula_kitaibeliana184184CLA007221BGNMQI,Primula_kitaibeliana184184CLA007221BGNMQI,Primulaceae,BGN:MQI,1,1634 m asl,15.4946944,44.3687778,,,Doubravka Pozarova,,,,0,0,
+Primula_kitaibeliana184184CLA007222BGNNND,Primula_kitaibeliana184184CLA007222BGNNND,Primulaceae,BGN:NND,1,2 m under summit of Rujicin Kuk,15.1177117,44.56555,,,Jan Smycka,,,,0,1,
+Primula_latifolia152139PHA007223BGNLS,Primula_latifolia152139PHA007223BGNLS,Primulaceae,BGN:LS,1,Bouches-du-Rh??ne (FR). Tende. TEN5,7.5633025878,44.0895482964,1018688,1912612,CBNM,,,,0,1,
+Primula_magellanica175079CLA010550GWM1236,Primula_magellanica175079CLA010550GWM1236,Primulaceae,GWM:1236,1,"Lago Fagnano, Tierra del Fuego",,,,,,,,,0,0,
+Primula_marginata175080PHA007227BGNID,Primula_marginata175080PHA007227BGNID,Primulaceae,BGN:ID,1,Alpes-Maritimes (FR). Beuil.,6.9267023333,44.0508533422,968006.28,1905131.05,CBNM,,,,0,1,
+Primula_minima159010PHA007229BGNQI,Primula_minima159010PHA007229BGNQI,Primulaceae,BGN:QI,1,"Dolomites (IT). Col Rondella, nahe Bergstation.",11.752439,46.503532,,,Adrian Moehl,,,,0,1,
+Primula_palinuri110762CLA007232BGNMQK,Primula_palinuri110762CLA007232BGNMQK,Primulaceae,BGN:MQK,1,Tower W from the port.,15.2727678,40.0322647,,,,,,,0,1,
+Primula_pedemontana184185PHA007233BGNKQ,Primula_pedemontana184185PHA007233BGNKQ,Primulaceae,BGN:KQ,1,Savoie (FR). Bonneval-sur-Arc. Cirque des ??vettes,7.0892802511,45.3768744102,972116.39,2053074.1,SAJF,,,,0,1,
+Primula_recubariensis184186PHA007237BGNMBL,Primula_recubariensis184186PHA007237BGNMBL,Primulaceae,BGN:MBL,1,V??n??tie (IT). Recoaro Terme. Rifugio Campogrosso.,11.15374,45.720916,,,Adrian Moehl,,,,0,1,
+Primula_spectabilis159015PHA007239BGNNB,Primula_spectabilis159015PHA007239BGNNB,Primulaceae,BGN:NB,1,"Gardasee (IT). Monte Tremalzo, Gipfelregion.",10.69595,45.83855,,,Adrian Moehl,,,,0,1,
+Primula_tyrolensis184187PHA007241BGNIVH,Primula_tyrolensis184187PHA007241BGNIVH,Primulaceae,BGN:IVH,1,Friuli-Venezia Giulia  (IT). Cimolais. Valmenone.,12.493043,46.396593,,,Adrian Moehl,,,,0,1,
+Primula_veris_columnae547293PHA007244BGNHQ,Primula_veris_columnae547293PHA007244BGNHQ,Primulaceae,BGN:HQ,1,Hautes-Alpes (FR). Rabou.,6.0091800029,44.5745599981,891785.826,1959441.854,CBNA,,,,0,0,
+Primula_veris_veris229532PHA007245BGNHP,Primula_veris_veris229532PHA007245BGNHP,Primulaceae,BGN:HP,1,Is??re (FR). Gi??res. Campus universitaire. LECA,5.7771938769,45.1933525663,870356.92,2027338.44,Sebastien Lavergne,,,,0,0,
+Primula_villosa184189PHA007247BGNNM,Primula_villosa184189PHA007247BGNNM,Primulaceae,BGN:NM,1,,,,,,,,,,0,1,
+Primula_wulfeniana184190PHA007249BGNLSG,Primula_wulfeniana184190PHA007249BGNLSG,Primulaceae,BGN:LSG,1,,,,,,,,,,0,1,
+Samolus_valerandi59985PHA007921BGNMF,Samolus_valerandi59985PHA007921BGNMF,Primulaceae,BGN:MF,1,Hautes-Alpes (FR). Mon??tier-Allemont. ,5.957983,44.39727,5.957983,44.39727,Jeremie van Es,,,,0,0,
+Soldanella_alpina66308CLA010110BGNMSK,Soldanella_alpina66308CLA010110BGNMSK,Primulaceae,BGN:MSK,1,Spain,,,,,Marek Slovak,,,,0,0,
+Soldanella_alpina66308CLA010115BGNMSM,Soldanella_alpina66308CLA010115BGNMSM,Primulaceae,BGN:MSM,1,Montenegro,,,,,Marek Slovak,,,,0,0,
+Soldanella_alpina_cantabrica1924223CLA010117GWM1243,Soldanella_alpina_cantabrica1924223CLA010117GWM1243,Primulaceae,GWM:1243,1,Spain,,,,,Marek Slovak,,,,0,0,
+Soldanella_alpina_ssp_cantabrica1924223CLA010116BGNMSN,Soldanella_alpina_cantabrica1924223CLA010116BGNMSN,Primulaceae,BGN:MSN,1,Spain,,,,,Marek Slovak,,,,0,0,
+Soldanella_angusta152117CLA010118BGNMSP,Soldanella_angusta152117CLA010118BGNMSP,Primulaceae,BGN:MSP,1,Romania,,,,,Marek Slovak,,,,0,0,
+Soldanella_angusta152117CLA010120BGNMSQ,Soldanella_angusta152117CLA010120BGNMSQ,Primulaceae,BGN:MSQ,1,Slovakia,,,,,Marek Slovak,,,,0,0,
+Soldanella_angusta152117CLA010123BGNMSR,Soldanella_angusta152117CLA010123BGNMSR,Primulaceae,BGN:MSR,1,Ukraine,,,,,Marek Slovak,,,,0,0,
+Soldanella_calabrella152118CLA008768BGNMRI,Soldanella_calabrella152118CLA008768BGNMRI,Primulaceae,BGN:MRI,1,"In the stream near the source close to parking lot up to Monte Gelbison, Italy",15.3160581,40.2119328,,,Jan Smycka,,,,0,0,
+Soldanella_calabrella152118CLA010124BGNMSS,Soldanella_calabrella152118CLA010124BGNMSS,Primulaceae,BGN:MSS,1,Italy,,,,,Marek Slovak,,,,0,0,
+Soldanella_calabrella152118CLA010126BGNMST,Soldanella_calabrella152118CLA010126BGNMST,Primulaceae,BGN:MST,1,Italy,,,,,Marek Slovak,,,,0,0,
+Soldanella_carpatica152119CAR008770BGNMKC,Soldanella_carpatica152119CAR008770BGNMKC,Primulaceae,BGN:MKC,0,"High Tatras, Furkota Dolyna, Carpathians, Slovakia",,,,,Mihai Puscas,,,,0,0,
+Soldanella_carpatica152119CLA010129GWM1244,Soldanella_carpatica152119CLA010129GWM1244,Primulaceae,GWM:1244,1,Slovakia,,,,,Marek Slovak,,,,0,0,
+Soldanella_carpatica152119CLA010130BGNMSV,Soldanella_carpatica152119CLA010130BGNMSV,Primulaceae,BGN:MSV,0,Slovakia,,,,,Marek Slovak,,,,0,0,
+Soldanella_chrysosticta152120CLA010132GWM1245,Soldanella_chrysosticta152120CLA010132GWM1245,Primulaceae,GWM:1245,1,Bulgaria,,,,,Marek Slovak,,,,0,0,
+Soldanella_chrysosticta152120CLA010133BGNMTA,Soldanella_chrysosticta152120CLA010133BGNMTA,Primulaceae,BGN:MTA,1,Bulgaria,,,,,Marek Slovak,,,,0,0,
+Soldanella_chrysosticta152120CLA010134BGNMTB,Soldanella_chrysosticta152120CLA010134BGNMTB,Primulaceae,BGN:MTB,1,Bulgaria,,,,,Marek Slovak,,,,0,0,
+Soldanella_hungarica152121CLA010137BGNMTC,Soldanella_hungarica152121CLA010137BGNMTC,Primulaceae,BGN:MTC,1,Romania,,,,,Marek Slovak,,,,0,0,
+Soldanella_hungarica152121CLA010139BGNMTD,Soldanella_hungarica152121CLA010139BGNMTD,Primulaceae,BGN:MTD,1,Romania,,,,,Marek Slovak,,,,0,0,
+Soldanella_hungarica152121CLA010141BGNMTE,Soldanella_hungarica152121CLA010141BGNMTE,Primulaceae,BGN:MTE,1,Romania,,,,,Marek Slovak,,,,0,0,
+Soldanella_hungarica_hungarica152121CAR010045BGNMFB,Soldanella_hungarica_hungarica152121CAR010045BGNMFB,Primulaceae,BGN:MFB,1,"Fagaras Mts., Paltinul Peak, 2404 m, Carpathians, Romania",24.6071666667,45.5983666667,,,Mihai Puscas,,,,0,0,
+Soldanella_hungarica_subsp_major52122CAR010078BGNNFD,Soldanella_hungarica_major52122CAR010078BGNNFD,Primulaceae,BGN:NFD,1,"Volovske vrchy, Uhorna, Carpathians, Slovakia ",20.6608542,48.7065861,,,Patrik Mraz,,,,0,0,
+Soldanella_major152122CLA010143BGNMTF,Soldanella_major152122CLA010143BGNMTF,Primulaceae,BGN:MTF,1,Austria,,,,,Marek Slovak,,,,0,0,
+Soldanella_major152122CLA010144BGNMTG,Soldanella_major152122CLA010144BGNMTG,Primulaceae,BGN:MTG,1,Romania,,,,,Marek Slovak,,,,0,0,
+Soldanella_marmarossiensis152123CLA010146BGNMTH,Soldanella_marmarossiensis152123CLA010146BGNMTH,Primulaceae,BGN:MTH,1,Romania,,,,,Marek Slovak,,,,0,0,
+Soldanella_marmarossiensis152123CLA010148BGNMTI,Soldanella_marmarossiensis152123CLA010148BGNMTI,Primulaceae,BGN:MTI,1,Slovakia,,,,,Marek Slovak,,,,0,0,
+Soldanella_marmarossiensis152123CLA010150BGNMTK,Soldanella_marmarossiensis152123CLA010150BGNMTK,Primulaceae,BGN:MTK,1,Ukraine,,,,,Marek Slovak,,,,0,0,
+Soldanella_minima152124CLA010153BGNMTL,Soldanella_minima152124CLA010153BGNMTL,Primulaceae,BGN:MTL,1,Italy,,,,,Marek Slovak,,,,0,0,
+Soldanella_minima_austriaca152126CLA010154BGNMTM,Soldanella_minima_austriaca152126CLA010154BGNMTM,Primulaceae,BGN:MTM,1,,,,,,Marek Slovak,,,,0,0,
+Soldanella_minima_ssp_samnitica152127CLA010156BGNMTN,Soldanella_minima_samnitica152127CLA010156BGNMTN,Primulaceae,BGN:MTN,1,Italy,,,,,Marek Slovak,,,,0,0,
+Soldanella_montana_ssp_gubalowkae1924224CLA010160BGNMTP,Soldanella_montana_gubalowkae1924224CLA010160BGNMTP,Primulaceae,BGN:MTP,1,Poland,,,,,Marek Slovak,,,,0,0,
+Soldanella_oreodoxa152130CAR008787BGNNFE,Soldanella_oreodoxa152130CAR008787BGNNFE,Primulaceae,BGN:NFE,1,"Bihor Mts., Padis, Carpathians, Romania",22.72155,46.5957833333,,,Mihai Puscas,,,,0,0,
+Soldanella_oreodoxa152130CLA010162BGNMTQ,Soldanella_oreodoxa152130CLA010162BGNMTQ,Primulaceae,BGN:MTQ,1,Romania,,,,,Marek Slovak,,,,0,0,
+Soldanella_pindicola152131CLA010164BGNMTR,Soldanella_pindicola152131CLA010164BGNMTR,Primulaceae,BGN:MTR,1,Greece,,,,,Marek Slovak,,,,0,0,
+Soldanella_pindicola152131CLA010167BGNMTS,Soldanella_pindicola152131CLA010167BGNMTS,Primulaceae,BGN:MTS,1,Macedonia,,,,,Marek Slovak,,,,0,0,
+Soldanella_pusilla152132CLA010168BGNMTT,Soldanella_pusilla152132CLA010168BGNMTT,Primulaceae,BGN:MTT,1,Bulgaria,,,,,Marek Slovak,,,,0,0,
+Soldanella_pusilla152132CLA010170BGNMTV,Soldanella_pusilla152132CLA010170BGNMTV,Primulaceae,BGN:MTV,1,Romania,,,,,Marek Slovak,,,,0,0,
+Soldanella_pusilla_ssp_alpicola152134CLA010172BGNMVA,Soldanella_pusilla_alpicola152134CLA010172BGNMVA,Primulaceae,BGN:MVA,1,,,,,,Marek Slovak,,,,0,0,
+Soldanella_rhodopaea152135CLA010175BGNMVB,Soldanella_rhodopaea152135CLA010175BGNMVB,Primulaceae,BGN:MVB,1,Bulgaria,,,,,Marek Slovak,,,,0,0,
+Soldanella_rugosa152136CAR008795BGNMFC,Soldanella_rugosa152136CAR008795BGNMFC,Primulaceae,BGN:MFC,1,"Romania (RO), Carpathians, Rodna Mts., proximity of Iezer Lake",,,,,Mihai Puscas,,,,0,0,
+Soldanella_rugosa152136CLA010176BGNMVC,Soldanella_rugosa152136CLA010176BGNMVC,Primulaceae,BGN:MVC,1,Romania,,,,,Marek Slovak,,,,0,0,
+Soldanella_tatricola1924225CLA010178BGNMVD,Soldanella_tatricola1924225CLA010178BGNMVD,Primulaceae,BGN:MVD,1,Slovakia,,,,,Marek Slovak,,,,0,0,
+Soldanella_villosa152137CLA010180BGNMVE,Soldanella_villosa152137CLA010180BGNMVE,Primulaceae,BGN:MVE,1,Spain,,,,,Marek Slovak,,,,0,0,
+Trientalis_europaea59991PHA009300BGNQT,Trientalis_europaea59991PHA009300BGNQT,Primulaceae,BGN:QT,1,Canton des Grisons (CH). Cavaglio. Cavaligliola.,,,800600,136500,Adrian Moehl,,,,0,0,
+Trientalis_europaea59991TROM_V_964193BXABMS,Trientalis_europaea59991TROM_V_964193BXABMS,Primulaceae,,1,,,,,,TROM,,,,0,0,
+Bergenia_crassifolia29762PHA001188BGNPE,Bergenia_crassifolia29762PHA001188BGNPE,Saxifragaceae+Grossulariaceae,BGN:PE,1,,,,,,,,,,,,0
+Chrysosplenium_alpinum1851346CAR002347BGNLNF,Chrysosplenium_alpinum1851346CAR002347BGNLNF,Saxifragaceae+Grossulariaceae,BGN:LNF,1,"Fagaras Mts, Doamnei glacial cirque, 2080 m, Carpathians, Romania",24.6065,45.6033333333,,,Bogdan Hurdu,,,,,,0
+Chrysosplenium_alternifolium80774PHA002349BGNFFV,Chrysosplenium_alternifolium80774PHA002349BGNFFV,Saxifragaceae+Grossulariaceae,BGN:FFV,1,Canton de Vaud (CH). Le Brassus. Col de Marchairuz.,6.24935,46.55021,,,Adrian Moehl,,,,,,0
+Chrysosplenium_oppositifolium1155259PHA002351BGNRN,Chrysosplenium_oppositifolium1155259PHA002351BGNRN,Saxifragaceae+Grossulariaceae,BGN:RN,1,Savoie (FR). Cognin.,5.882909,45.557318,,,Thomas Legland,,,,,,0
+Ribes_alpinum134913PHA007622RSZRSZAXPI000692-86,Ribes_alpinum134913PHA007622RSZRSZAXPI000692-86,Saxifragaceae+Grossulariaceae,RSZ:RSZAXPI000692-86,1,Hautes-Alpes (FR). Rabou.,6.0091800029,44.5745599981,891785.826,1959441.854,CBNA,,,,,,0
+Ribes_aureum23283PHA007624BGNHLD,Ribes_aureum23283PHA007624BGNHLD,Saxifragaceae+Grossulariaceae,BGN:HLD,1,Canton de Berne (CH). Bern. Botanischer Garten,7.44505,46.95243,,,Adrian Moehl,,,,,,0
+Ribes_nigrum78511PHA007625BGNKHF,Ribes_nigrum78511PHA007625BGNKHF,Saxifragaceae+Grossulariaceae,BGN:KHF,1,,,,,,Jean-Charles Villaret,,,,,,0
+Ribes_petraeum175225PHA007626BGNFDQ,Ribes_petraeum175225PHA007626BGNFDQ,Saxifragaceae+Grossulariaceae,BGN:FDQ,1,Savoie (FR). Courchevel.,6.6103665178,45.3784198717,934649.39,2051092.7,CBNA,,,,,,0
+Ribes_rubrum175228PHA007628BGNHCK,Ribes_rubrum175228PHA007628BGNHCK,Saxifragaceae+Grossulariaceae,BGN:HCK,1,Is??re (FR). Saint-Laurent-en-Beaumont. Pont-du-Pr??tre.,5.870179,44.893998,,,Jean-Charles Villaret,,,,,,0
+Ribes_uva-crispa135518PHA007630BGNBDM,Ribes_uva-crispa135518PHA007630BGNBDM,Saxifragaceae+Grossulariaceae,BGN:BDM,1,Hautes-Alpes (FR). Rabou.,6.0091800029,44.5745599981,891785.826,1959441.854,CBNA,,,,,,0
+Saxifraga_adscendens406025PHA007978GWM1249,Saxifraga_adscendens406025PHA007978GWM1249,Saxifragaceae+Grossulariaceae,GWM:1249,1,?-sterreich (AT). Heiligenblut. Edelweissspitze,47.117538,12.828757,,,Adrian Moehl,,,,,,1
+Saxifraga_aizoides102714PHA007979BGNIV,Saxifraga_aizoides102714PHA007979BGNIV,Saxifragaceae+Grossulariaceae,BGN:IV,1,Hautes-Alpes (FR). La Grave. Les Fr??aux,6.284094,45.045571,,,PhyloAlps project,,,,,,0
+Saxifraga_aizoides102714TROM_V_147730BMBPK,Saxifraga_aizoides102714TROM_V_147730BMBPK,Saxifragaceae+Grossulariaceae,,1,,,,,,TROM,,,,,,0
+Saxifraga_androsacea134767PHA007983BGNQK,Saxifraga_androsacea134767PHA007983BGNQK,Saxifragaceae+Grossulariaceae,BGN:QK,1,,,,,,Linda Feichtinger,,,,,,1
+Saxifraga_aphylla134768PHA007985BGNQL,Saxifraga_aphylla134768PHA007985BGNQL,Saxifragaceae+Grossulariaceae,BGN:QL,1,Stilfser Joch (IT). Dreisprachenspitz.,10.48947,46.53234,,,Adrian Moehl,,,,,,1
+Saxifraga_aquatica134769CLA007988BGNNHE,Saxifraga_aquatica134769CLA007988BGNNHE,Saxifragaceae+Grossulariaceae,BGN:NHE,1,Torrent del Barranco de la Coma de l'Estany sota Estany de Fili?  c. 2000 m,0.9515,42.45702778,,,Cristina Roquet,,,,,,1
+Saxifraga_arachnoidea83408PHA007989BGNQM,Saxifraga_arachnoidea83408PHA007989BGNQM,Saxifragaceae+Grossulariaceae,BGN:QM,1,Lombardie (IT). Monte Tombea. Strassenrand in Balmlage.,10.618873,45.795417,,,Adrian Moehl,,,,,,1
+Saxifraga_aspera1385495PHA007991BGNKTR,Saxifraga_aspera1385495PHA007991BGNKTR,Saxifragaceae+Grossulariaceae,BGN:KTR,1,Canton du Valais (CH). Simplon. Hohliecht,8.05523,46.20502,,,Adrian Moehl,,,,,,0
+Saxifraga_aspera1385495PHA010029RSZRSZAXPI001330-51,Saxifraga_aspera1385495PHA010029RSZRSZAXPI001330-51,Saxifragaceae+Grossulariaceae,RSZ:RSZAXPI001330-51,1,Savoie (FR). Bonneval-sur-Arc. Cirque des ??vettes,7.0892802511,45.3768744102,972116.39,2053074.1,SAJF,,,,,,0
+Saxifraga_babiana83420CLA007992BGNNSQ,Saxifraga_babiana83420CLA007992BGNNSQ,Saxifragaceae+Grossulariaceae,BGN:NSQ,1,"Acantilado cerca cruce de carretera Puerto Ventana con carretera de Torrest??o, c. 1600 m",-6.02258333,43.03541667,,,Cristina Roquet,,,,,,1
+Saxifraga_babiana83420CLA007993BGNPBE,Saxifraga_babiana83420CLA007993BGNPBE,Saxifragaceae+Grossulariaceae,BGN:PBE,1,"Acantilado cerca cruce de carretera Puerto Ventana con carretera de Torrest??o, c. 1600 m",-6.02258333,43.03541667,,,Cristina Roquet,,,,,,0
+Saxifraga_berica1616233CLA007994BGNNLF,Saxifraga_berica1616233CLA007994BGNNLF,Saxifragaceae+Grossulariaceae,BGN:NLF,1,"Lumignano c. 100 m, Italia",11.5861458,45.4605422,,,Cristina Roquet,,,,,,1
+Saxifraga_biflora_biflora192742PHA007995RSZRSZAXPI000755-80,Saxifraga_biflora_biflora192742PHA007995RSZRSZAXPI000755-80,Saxifragaceae+Grossulariaceae,RSZ:RSZAXPI000755-80,1,"Canton du Valais (CH). Chamoson, Cr??te Moret.",,,,,,,,,,,0
+Saxifraga_biflora_macropetala1696707PHA007998BGNLRF,Saxifraga_biflora_macropetala1696707PHA007998BGNLRF,Saxifragaceae+Grossulariaceae,BGN:LRF,1,,,,,,,,,,,,0
+Saxifraga_biternata134770CLA008000GWM1421,Saxifraga_biternata134770CLA008000GWM1421,Saxifragaceae+Grossulariaceae,GWM:1421,1,,-4.548,36.953,,,Cristina Roquet,,,,,,1
+Saxifraga_blavii1904729CLA008002BGNMQL,Saxifraga_blavii1904729CLA008002BGNMQL,Saxifragaceae+Grossulariaceae,BGN:MQL,1,way to rocky pass with bifurcation under Kom Kucki,19.64875,42.67552,,,Jan Smycka,,,,,,1
+Saxifraga_bourgaeana134771CLA008003BGNNKH,Saxifraga_bourgaeana134771CLA008003BGNNKH,Saxifragaceae+Grossulariaceae,BGN:NKH,1,El Tunio,-5.3,36.68,,,Cristina Roquet,,,,,,1
+Saxifraga_bryoides1385497PHA008004RSZRSZAXPI000959-99,Saxifraga_bryoides1385497PHA008004RSZRSZAXPI000959-99,Saxifragaceae+Grossulariaceae,RSZ:RSZAXPI000959-99,1,Piemonte (IT). Pontechianale. Col Agnel.,6.9752834201,44.6804461933,967767.56,1975252.05,CBNA,,,,,,0
+Saxifraga_bulbifera134772PHA008008RSZRSZAXPI000821-93,Saxifraga_bulbifera134772PHA008008RSZRSZAXPI000821-93,Saxifragaceae+Grossulariaceae,RSZ:RSZAXPI000821-93,1,"Valle d'Aosta (IT), Arpuilles",7.30517,45.74698,,,Adrian Moehl,,,,,,1
+Saxifraga_burseriana1534574PHA008009BGNALI,Saxifraga_burseriana1534574PHA008009BGNALI,Saxifragaceae+Grossulariaceae,BGN:ALI,1,,,,,,,,,,,,0
+Saxifraga_caesia102716PHA008011BGNKR,Saxifraga_caesia102716PHA008011BGNKR,Saxifragaceae+Grossulariaceae,BGN:KR,1,Hautes-Alpes (FR). Cervi??res,6.717911,44.889672,,,Rolland Douzet,,,,,,0
+Saxifraga_callosa102717PHA008013RSZRSZAXPI001345-50,Saxifraga_callosa102717PHA008013RSZRSZAXPI001345-50,Saxifragaceae+Grossulariaceae,RSZ:RSZAXPI001345-50,1,Hautes-Alpes (FR). Nossage-et-B??n??vent. Montagne de Chabre.,5.7650059553,44.2983619395,873738.23,1927881.39,CBNA,,,,,,0
+Saxifraga_canaliculata134773CLA008018BGNNKK,Saxifraga_canaliculata134773CLA008018BGNNKK,Saxifragaceae+Grossulariaceae,BGN:NKK,1,"San Emiliano (pe??a rocosa en medio del pueblo), Babia, c. 1200 m",-6.00236111,42.97263889,,,Cristina Roquet,,,,,,1
+Saxifraga_carpatica1534575PHA008020BGNLQR,Saxifraga_carpatica1534575PHA008020BGNLQR,Saxifragaceae+Grossulariaceae,BGN:LQR,1,,,,,,,,,,,,0
+Saxifraga_catalaunica1904730CLA008024BGNMGA,Saxifraga_catalaunica1904730CLA008024BGNMGA,Saxifragaceae+Grossulariaceae,BGN:MGA,1,"Cam?? de la Font Soleia, Sant Lloren?? del Munt",2.0174,41.6457,,,Cristina Roquet,,,,,,0
+Saxifraga_cebennensis134775CLA008026BGNNNF,Saxifraga_cebennensis134775CLA008026BGNNNF,Saxifragaceae+Grossulariaceae,BGN:NNF,1,"Chateau de Montferrand, Pic Saint Loup, France",3.8397992,43.7757369,,,Jan Smycka,,,,,,1
+Saxifraga_cernua29769PHA008027RSZRSZAXPI001352-81,Saxifraga_cernua_cernua29769PHA008027RSZRSZAXPI001352-81,Saxifragaceae+Grossulariaceae,RSZ:RSZAXPI001352-81,1,Canton des Grisons (CH). Ramosch. Gipfel Piz Arina.,10.37075,46.86638,,,Adrian Moehl,,,,,,0
+Saxifraga_cernua_pusila29769PHA008029BGNGGL,Saxifraga_cernua_pusila29769PHA008029BGNGGL,Saxifragaceae+Grossulariaceae,BGN:GGL,1,Dolomites (IT). Saas Pordoi. Bergstation.,11.81973,46.511566,,,Adrian Moehl,,,,,,0
+Saxifraga_cespitosa102718CLA008032BGNLSC,Saxifraga_cespitosa102718CLA008032BGNLSC,Saxifragaceae+Grossulariaceae,BGN:LSC,1,"Turtrag??, Norway",7.78455556,61.48658333,,,Oslo,,,,,,1
+Saxifraga_cespitosa102718TROM_V_162328BMBPI,Saxifraga_cespitosa102718TROM_V_162328BMBPI,Saxifragaceae+Grossulariaceae,,1,,,,,,TROM,,,,,,0
+Saxifraga_cochlearis102719PHA008038RSZRSZAXPI001059-142,Saxifraga_cochlearis102719PHA008038RSZRSZAXPI001059-142,Saxifragaceae+Grossulariaceae,RSZ:RSZAXPI001059-142,1,Alpes-Maritimes (FR). La Brigue.,7.64166667,44.07111111,,,Remo Giordano,,,,,,0
+Saxifraga_conifera83414CLA008039BGNNKL,Saxifraga_conifera83414CLA008039BGNNKL,Saxifragaceae+Grossulariaceae,BGN:NKL,1,"Cerca cruce de carretera Puerto Ventana con carretera de Torrest??o, c. 1500m",-6.01713889,43.03875,,,Cristina Roquet,,,,,,1
+Saxifraga_continentalis1616279CLA008041BGNNKM,Saxifraga_continentalis1616279CLA008041BGNNKM,Saxifragaceae+Grossulariaceae,BGN:NKM,1,"Pico San Lorenzo, c. 1900 m",-2.97147222,42.24811111,,,Cristina Roquet,,,,,,1
+Saxifraga_continentalis1616279CLA008042BGNNNG,Saxifraga_fragosoi1616279CLA008042BGNNNG,Saxifragaceae+Grossulariaceae,BGN:NNG,1,SE slopes of Mont Aigoual,3.592105,44.1195164,,,Jan Smycka,,,,,,0
+Saxifraga_cotyledon102720PHA008043RSZRSZAXPI001331-52,Saxifraga_cotyledon102720PHA008043RSZRSZAXPI001331-52,Saxifragaceae+Grossulariaceae,RSZ:RSZAXPI001331-52,1,Haute-Savoie (FR). Servoz. Haut Moulin.,6.7794802656,45.9366067185,944372.7367,2113772.498,LECA,,,,,,0
+Saxifraga_cotyledon102720TROM_V_964258BXABFS,Saxifraga_cotyledon102720TROM_V_964258BXABFS,Saxifragaceae+Grossulariaceae,,1,,,,,,TROM,,,,,,0
+Saxifraga_crustata102721PHA010030BGNNGI,Saxifraga_crustata102721PHA010030BGNNGI,Saxifragaceae+Grossulariaceae,BGN:NGI,1,,,,,,,,,,,,0
+Saxifraga_crustata102721PHA010030RSZRSZAXPI001350-79,Saxifraga_crustata102721PHA010030RSZRSZAXPI001350-79,Saxifragaceae+Grossulariaceae,RSZ:RSZAXPI001350-79,1,,,,,,,,,,,,0
+Saxifraga_cuneata83421CLA008048BGNNKN,Saxifraga_cuneata83421CLA008048BGNNKN,Saxifragaceae+Grossulariaceae,BGN:NKN,1,"Pena Santorcuator, Ezcaray, c. 970 m",-3.00613889,42.33461111,,,Cristina Roquet,,,,,,1
+Saxifraga_cuneifolia102722PHA008052BGNLVQ,Saxifraga_cuneifolia_cuneifolia102722PHA008052BGNLVQ,Saxifragaceae+Grossulariaceae,BGN:LVQ,1,Canton du Valais (CH). Champex-d'Alesse. Halber Weg zum Mont Rosel,7.06662,46.13502,,,Adrian Moehl,,,,,,0
+Saxifraga_depressa134778PHA008059BGNQN,Saxifraga_depressa134778PHA008059BGNQN,Saxifragaceae+Grossulariaceae,BGN:QN,1,Dolomites (IT). Bindelweg. Oberhalb Rifugio Bindel.,11.841838,46.47697,,,Adrian Moehl,,,,,,1
+Saxifraga_diapensioides1534576PHA008061BGNAKS,Saxifraga_diapensioides1534576PHA008061BGNAKS,Saxifragaceae+Grossulariaceae,BGN:AKS,1,Savoie (FR). Bessans. Torrent du Ribon.,6.9902348859,45.3083065614,964821.7251,2045001.401,LECA,,,,,,0
+Saxifraga_erioblasta83415CLA008068BGNNHC,Saxifraga_erioblasta83415CLA008068BGNNHC,Saxifragaceae+Grossulariaceae,BGN:NHC,1," Mirador de las V??boras, Sierra Nevada",-3.4427,37.1324,,,Cristina Roquet,,,,,,1
+Saxifraga_exarata_ampulacea1904731CLA008069BGNNNH,Saxifraga_exarata_ampulacea1904731CLA008069BGNNNH,Saxifragaceae+Grossulariaceae,BGN:NNH,1,"Passo dei Doui Corni, cca 2550 m, Gran Sasso, Italy",13.5604842,42.4751025,,,Jan Smycka,,,,,,1
+Saxifraga_exarata_carniolica1534577PHA008070BGNLSI,Saxifraga_exarata_carniolica1534577PHA008070BGNLSI,Saxifragaceae+Grossulariaceae,BGN:LSI,1,,,,,,,,,,,,1
+Saxifraga_exarata_delphinensis1534578PHA008072BGNAKV,Saxifraga_exarata_delphinensis1534578PHA008072BGNAKV,Saxifragaceae+Grossulariaceae,BGN:AKV,1,Hautes-Alpes (FR). Ribeyret.,5.5398520053,44.4285179993,855181.884,1941585.134,Sylvain Abdulhak,,,,,,1
+Saxifraga_exarata_exarata83410PHA008074RSZRSZAXPI000684-35,Saxifraga_exarata_exarata83410PHA008074RSZRSZAXPI000684-35,Saxifragaceae+Grossulariaceae,RSZ:RSZAXPI000684-35,1,Hautes-Alpes (FR). Cervi??res,6.717911,44.889672,,,Rolland Douzet,,,,,,1
+Saxifraga_exarata_moschata134788PHA008077RSZRSZAXPI000826-18,Saxifraga_exarata_moschata134788PHA008077RSZRSZAXPI000826-18,Saxifragaceae+Grossulariaceae,RSZ:RSZAXPI000826-18,1,"Canton du Valais (CH). Conthey, Derbon",,,,,,,,,,,1
+Saxifraga_facchinii134794PHA008080BGNMBD,Saxifraga_facchinii134794PHA008080BGNMBD,Saxifragaceae+Grossulariaceae,BGN:MBD,1,Col de Pordoi (IT). Richtung rifugio Maria.,11.822133,46.516114,,,Adrian Moehl,,,,,,1
+Saxifraga_florulenta102725PHA008082BGNMAM,Saxifraga_florulenta102725PHA008082BGNMAM,Saxifragaceae+Grossulariaceae,BGN:MAM,1,Bouches-du-Rh??ne (FR). Tende. ,7.4300956,44.1068977,,,Monique Perfus,,,,,,0
+Saxifraga_florulenta102725PHA010031RSZRSZAXPI001348-66,Saxifraga_florulenta102725PHA010031RSZRSZAXPI001348-66,Saxifragaceae+Grossulariaceae,RSZ:RSZAXPI001348-66,1,Alpes-Maritimes (FR). Belv??d??re.,7.43333333,44.08333333,,,Cedric Dentant,,,,,,0
+Saxifraga_fragilis102726CLA008083BGNNKP,Saxifraga_fragilis102726CLA008083BGNNKP,Saxifragaceae+Grossulariaceae,BGN:NKP,1,"Roc Capio (675m), Quillan",2.16125,42.88541667,,,Cristina Roquet,,,,,,1
+Saxifraga_fragosoi84738PHA008084RSZRSZAXPI001347-53,Saxifraga_fragosoi84738PHA008084RSZRSZAXPI001347-53,Saxifragaceae+Grossulariaceae,RSZ:RSZAXPI001347-53,1,,,,,,SAJF,,,,,,1
+Saxifraga_gemmulosa134780CLA008086BGNNKQ,Saxifraga_gemmulosa134780CLA008086BGNNKQ,Saxifragaceae+Grossulariaceae,BGN:NKQ,0,Sierra Bermeja,-5.197,36.493,,,Cristina Roquet,,,,,,1
+Saxifraga_geranioides134782CLA008089BGNNKR,Saxifraga_geranioides134782CLA008089BGNNKR,Saxifragaceae+Grossulariaceae,BGN:NKR,1,"La Raconada, pujada a Punta Alta, Aig??estortes (c. 2600 m) ",0.886139,42.590972,,,Cristina Roquet,,,,,,1
+Saxifraga_glabella1904732CLA008090BGNMRF,Saxifraga_glabella1904732CLA008090BGNMRF,Saxifragaceae+Grossulariaceae,BGN:MRF,1,end of slope to Kom Vasojevicki,19.6712417,42.6904783,,,Jan Smycka,,,,,,1
+Saxifraga_globulifera83417CLA008091BGNNTI,Saxifraga_globulifera83417CLA008091BGNNTI,Saxifragaceae+Grossulariaceae,BGN:NTI,1,"M?!laga: Embalse de Montejaque, 720 m",,,,,B Herbarium,,,,,,1
+Saxifraga_granulata83409PHA008094RSZRSZAXPI000822-94,Saxifraga_granulata83409PHA008094RSZRSZAXPI000822-94,Saxifragaceae+Grossulariaceae,RSZ:RSZAXPI000822-94,1,,,,,,,,,,,,1
+Saxifraga_granulata83409TROM_V_140856BXABFQ,Saxifraga_granulata83409TROM_V_140856BXABFQ,Saxifragaceae+Grossulariaceae,,1,,,,,,TROM,,,,,,0
+Saxifraga_haenseleri134784CLA008096BGNPBQ,Saxifraga_haenseleri134784CLA008096BGNPBQ,Saxifragaceae+Grossulariaceae,BGN:PBQ,1,"Sierra de Cazorla? : Puntal de Lorilla, 1600 m",,,,,B Herbarium,,,,,,1
+Saxifraga_hariotii134785CLA008098BGNPBF,Saxifraga_hariotii134785CLA008098BGNPBF,Saxifragaceae+Grossulariaceae,BGN:PBF,1,Castillo de Acher (c. 1820 m) ,-0.683525,42.819214,,,Cristina Roquet,,,,,,1
+Saxifraga_hieraciifolia90602PHA008102BGNNN,Saxifraga_hieraciifolia90602PHA008102BGNNN,Saxifragaceae+Grossulariaceae,BGN:NN,1,,,,,,,,,,,,0
+Saxifraga_hirculus159962PHA008104BGNQP,Saxifraga_hirculus159962PHA008104BGNQP,Saxifragaceae+Grossulariaceae,BGN:QP,1,Canton de Vaud (CH). Le Brassus. Combe des Amburneux.,6.21203,46.53413,,,Adrian Moehl,,,,,,0
+Saxifraga_hirculus159962TROM_V_966600BXABFP,Saxifraga_hirculus159962TROM_V_966600BXABFP,Saxifragaceae+Grossulariaceae,,1,,,,,,TROM,,,,,,0
+Saxifraga_hirsuta102727CLA008106BGNNKS,Saxifraga_hirsuta102727CLA008106BGNNKS,Saxifragaceae+Grossulariaceae,BGN:NKS,1,"Aniz, c. 550m ",-1.56022222,43.10675,,,Cristina Roquet,,,,,,0
+Saxifraga_hohenwartii1616302PHA008107BGNLKV,Saxifraga_hohenwartii1616302PHA008107BGNLKV,Saxifragaceae+Grossulariaceae,BGN:LKV,1,"?-sterreich (AT). Eisenkappel. Hochobir, Aufstieg.",46.502606,14.488174,,,Adrian Moehl,,,,,,1
+Saxifraga_hostii_rhaetica1534581PHA008109RSZRSZAXPI000823-95,Saxifraga_hostii_rhaetica1534581PHA008109RSZRSZAXPI000823-95,Saxifragaceae+Grossulariaceae,RSZ:RSZAXPI000823-95,1,Lombardie (IT). Piani Resinelli. westlich Rifugio Porta.,9.396822,45.912705,,,Adrian Moehl,,,,,,0
+Saxifraga_hypnoides23264CLA008110BGNMRG,Saxifraga_hypnoides23264CLA008110BGNMRG,Saxifragaceae+Grossulariaceae,BGN:MRG,1,Royal Botanic Garden Edinburgh,,,,,,,,,,,1
+Saxifraga_intricata88879CLA008111BGNNHF,Saxifraga_intricata88879CLA008111BGNNHF,Saxifragaceae+Grossulariaceae,BGN:NHF,0,Part inferior del Barranc de la Coma de l'Estany (Vall Fosca) c. 1980 m,0.95166667,42.46097222,,,Cristina Roquet,,,,,,1
+Saxifraga_italica1616240CLA008112BGNNLG,Saxifraga_italica1616240CLA008112BGNNLG,Saxifragaceae+Grossulariaceae,BGN:NLG,1,"Monte Focalone 2400 m, Parco Nazionale della Majella, Italia",,,,,Anna Frattaroli,,,,,,1
+Saxifraga_latepetiolata102729CLA008113GWM1256,Saxifraga_latepetiolata102729CLA008113GWM1256,Saxifragaceae+Grossulariaceae,GWM:1256,1,"Valencia? : Cabezo Moro, pr. Puebla de San Miguel, 1150 m",,,,,B Herbarium,,,,,,1
+Saxifraga_losae88876CLA008114BGNNKT,Saxifraga_losae88876CLA008114BGNNKT,Saxifragaceae+Grossulariaceae,BGN:NKT,1,"Puerto de Lizarraga, c. 1100m",-2.00947222,42.86061111,,,Cristina Roquet,,,,,,1
+Saxifraga_luteoviridis1616312CAR008116BGNMIV,Saxifraga_luteoviridis1616312CAR008116BGNMIV,Saxifragaceae+Grossulariaceae,BGN:MIV,1,"F??g??ra?? Mts, Doamnei glacial cirque, 2060 m, Carpathians, Romania",24.6063611111,45.6039444444,,,Bogdan Hurdu,,,,,,0
+Saxifraga_maderensis83422CLA010033BGNNKV,Saxifraga_maderensis83422CLA010033BGNNKV,Saxifragaceae+Grossulariaceae,BGN:NKV,1,Ribeira Seca ou do Paul (Madeira) c. 250 m,-17.2215,32.753,,,Cristina Roquet,,,,,,1
+Saxifraga_moncayensis88877CLA008121BGNNSS,Saxifraga_moncayensis88877CLA008121BGNNSS,Saxifragaceae+Grossulariaceae,BGN:NSS,1,"cerca Santuario del Moncayo, c. 1600m",-1.8186944,41.7915278,,,Cristina Roquet,,,,,,1
+Saxifraga_moschata_kotulae1924221CAR010213BGNNQC,Saxifraga_exarata_kotulae1924221CAR010213BGNNQC,Saxifragaceae+Grossulariaceae,BGN:NQC,1,,,,,,,,,,,,1
+Saxifraga_muscoides1534582PHA008125BGNLHV,Saxifraga_muscoides1534582PHA008125BGNLHV,Saxifragaceae+Grossulariaceae,BGN:LHV,1,Canton du Valais (CH). Lac de Mauvoisin. Plan Petit Gi??tro.,7.37381,45.92809,,,Adrian Moehl,,,,,,1
+Saxifraga_mutata_demissa1907915CAR008131BGNNPK,Saxifraga_mutata_demissa1907915CAR008131BGNNPK,Saxifragaceae+Grossulariaceae,BGN:NPK,1,"Bucegi Mts., between Omul and Doamnele, Carpathians, Romania",25.44644,45.43985,,,Bogdan Hurdu,,,,,,0
+Saxifraga_nathorstii1443523TROM_V_135932BXACKR,Saxifraga_nathorstii1443523TROM_V_135932BXACKR,Saxifragaceae+Grossulariaceae,,1,,,,,,TROM,,,,,,0
+Saxifraga_oppositifolia29771TROM_V_962908BMBAC,Saxifraga_oppositifolia_oppositifolia29771TROM_V_962908BMBAC,Saxifragaceae+Grossulariaceae,,1,,,,,,TROM,,,,,,0
+Saxifraga_oppositifolia_blepharophylla192743PHA008134BGNLPS,Saxifraga_oppositifolia_blepharophylla192743PHA008134BGNLPS,Saxifragaceae+Grossulariaceae,BGN:LPS,1,,,,,,,,,,,,0
+Saxifraga_oppositifolia_oppositifolia1443523PHA008135BGNIE,Saxifraga_oppositifolia_oppositifolia1443523PHA008135BGNIE,Saxifragaceae+Grossulariaceae,BGN:IE,1,Bouches-du-Rh??ne (FR). P??one. Col de Crous.,6.9045479881,44.14344865,965633.98,1915308.89,CBNM,,,,,,0
+Saxifraga_oppositifolia_rudolphiana1405363PHA008138BGNLLA,Saxifraga_oppositifolia_rudolphiana1405363PHA008138BGNLLA,Saxifragaceae+Grossulariaceae,BGN:LLA,1,?-sterreich (AT). Hohe Tauern. Gamsgrube.,47.089417,12.732161,,,Adrian Moehl,,,,,,0
+Saxifraga_paradoxa1534583PHA008145BGNALV,Saxifraga_paradoxa1534583PHA008145BGNALV,Saxifragaceae+Grossulariaceae,BGN:ALV,1,,,,,,,,,,,,1
+Saxifraga_pedemontana102735PHA008148BGNKKP,Saxifraga_pedemontana_pedemontana102735PHA008148BGNKKP,Saxifragaceae+Grossulariaceae,BGN:KKP,1,Bouches-du-Rh??ne (FR). Tende. ,7.4300956,44.1068977,,,Monique Perfus,,,,,,1
+Saxifraga_pedemontana_cymosa1616324CAR008150BGNNGR,Saxifraga_pedemontana_cymosa1616324CAR008150BGNNGR,Saxifragaceae+Grossulariaceae,BGN:NGR,1,"Cozia Mts., Bulzu peak, north face, 1460 m, Carpathians, Romania",24.347573,45.316342,,,Bogdan Hurdu,,,,,,1
+Saxifraga_pentadactylis83411CLA008151BGNNLA,Saxifraga_pentadactylis83411CLA008151BGNNLA,Saxifragaceae+Grossulariaceae,BGN:NLA,1,"Pico San Lorenzo, c. 2000 m",-2.97258333,42.24641667,,,Cristina Roquet,,,,,,1
+Saxifraga_petraea1534584PHA008153BGNAMA,Saxifraga_petraea1534584PHA008153BGNAMA,Saxifragaceae+Grossulariaceae,BGN:AMA,1,"Lombardie (IT). Monte Tombea. Aufstieg, im Wald",10.617328,45.796973,,,Adrian Moehl,,,,,,1
+Saxifraga_platysepala1301454TROM_V_66325BXACCW,Saxifraga_platysepala1301454TROM_V_66325BXACCW,Saxifragaceae+Grossulariaceae,,1,,,,,,TROM,,,,,,0
+Saxifraga_portosanctana83423CLA008156BGNPBI,Saxifraga_portosanctana83423CLA008156BGNPBI,Saxifragaceae+Grossulariaceae,BGN:PBI,1,,,,,,Cristina Roquet,,,,,,1
+Saxifraga_presolanensis1534585PHA008158BGNAMB,Saxifraga_presolanensis1534585PHA008158BGNAMB,Saxifragaceae+Grossulariaceae,BGN:AMB,1,,,,,,,,,,,,1
+Saxifraga_pubescens134791CLA008160BGNMLN,Saxifraga_pubescens134791CLA008160BGNMLN,Saxifragaceae+Grossulariaceae,BGN:MLN,1,"pujant a Punta Alta, cara Nord, Aig??estortes (c. 2900 m)",0.88166667,42.58688889,,,Cristina Roquet,,,,,,1
+Saxifraga_retusa_augustana1405364PHA008161BGNLSF,Saxifraga_retusa_augustana1405364PHA008161BGNLSF,Saxifragaceae+Grossulariaceae,BGN:LSF,1,Piemonte (IT). Moncenisio. ,6.9523876256,45.1726967696,1010356,6460368,Thierry Delahaye,,,,,,0
+Saxifraga_retusa_retusa1405365PHA008163BGNLB,Saxifraga_retusa_retusa1405365PHA008163BGNLB,Saxifragaceae+Grossulariaceae,BGN:LB,1,Hautes-Alpes (FR). Pelvoux. ,6.369264465,44.8808410764,918624,1994853,Sebastien Lavergne,,,,,,0
+Saxifraga_rivularis93340TROM_V_963892BMBPG,Saxifraga_rivularis93340TROM_V_963892BMBPG,Saxifragaceae+Grossulariaceae,,1,,,,,,TROM,,,,,,0
+Saxifraga_rosacea134792CLA008166BGNNNI,Saxifraga_rosacea_sponthemica134792CLA008166BGNNNI,Saxifragaceae+Grossulariaceae,BGN:NNI,1,"R??publique tch??que (CZE). T??tin, cliff under the St. John???,??""?s church",14.1037447,49.9503822,,,Jan Smycka,,,,,,1
+Saxifraga_rosacea134792TROM_V_965858BXABQQ,Saxifraga_rosacea_hartii134792TROM_V_965858BXABQQ,Saxifragaceae+Grossulariaceae,,1,,,,,,TROM,,,,,,1
+Saxifraga_rotundifolia23265PHA008167BGNLT,Saxifraga_rotundifolia23265PHA008167BGNLT,Saxifragaceae+Grossulariaceae,BGN:LT,1,Bouches-du-Rh??ne (FR). Tende. CAS1,7.5157175969,44.0896501003,1014881,1912371,CBNM,,,,,,0
+Saxifraga_sedoides134793PHA008171BGNMBE,Saxifraga_sedoides134793PHA008171BGNMBE,Saxifragaceae+Grossulariaceae,BGN:MBE,0,"Dolomites (IT). Oberhalb Gr??dner Joch, s??dlich, rechts vom Weg nach Pisciades",11.8228554726,46.554802666,,,Adrian Moehl,,,,,,1
+Saxifraga_seguieri1534586PHA008173BGNIQR,Saxifraga_seguieri1534586PHA008173BGNIQR,Saxifragaceae+Grossulariaceae,BGN:IQR,1,Canton des Grisons (CH). Maloja. Unterhalb Forno Gletscher.,9.70469,46.35598,,,Adrian Moehl,,,,,,1
+Saxifraga_spinulosa1385505TROM_V_200490BXACCV,Saxifraga_spinulosa1385505TROM_V_200490BXACCV,Saxifragaceae+Grossulariaceae,,1,,,,,,TROM,,,,,,0
+Saxifraga_squarrosa102737PHA008177BGNNP,Saxifraga_squarrosa102737PHA008177BGNNP,Saxifragaceae+Grossulariaceae,BGN:NP,1,,,,,,,,,,,,0
+Saxifraga_styriaca1792783CAR010216BGNNSA,Saxifraga_styriaca1792783CAR010216BGNNSA,Saxifragaceae+Grossulariaceae,BGN:NSA,1,,,,,,,,,,,,1
+Saxifraga_tenella1534587PHA008184BGNKAE,Saxifraga_tenella1534587PHA008184BGNKAE,Saxifragaceae+Grossulariaceae,BGN:KAE,1,Slovenija (SVN). Soca Tal. Krn See.,13.685056,46.285319,,,Adrian Moehl,,,,,,1
+Saxifraga_tridactylites406026CLA008188BGNNNL,Saxifraga_glabella406026CLA008188BGNNNL,Saxifragaceae+Grossulariaceae,BGN:NNL,1,"on crossroad Corno Grande, rif. Garibaldi, Campo Imperatore, Italy",13.5587961,42.4589139,,,Jan Smycka,,,,,,0
+Saxifraga_tridactylites406026CLA008189BGNNNM,Saxifraga_italica406026CLA008189BGNNNM,Saxifragaceae+Grossulariaceae,BGN:NNM,1,"Campo Pericoli, NE slope of Portella, just under the rocks, Italy",13.5457714,42.4515364,,,Jan Smycka,,,,,,0
+Saxifraga_tridactylites406026PHA010035BGNLSM,Saxifraga_tridactylites406026PHA010035BGNLSM,Saxifragaceae+Grossulariaceae,BGN:LSM,1,Canton de Vaud (CH). Le Lieu. Bahnhofareal,6.28502,46.64745,,,Adrian Moehl,,,,,,1
+Saxifraga_trifurcata83424CLA008190BGNNLB,Saxifraga_trifurcata83424CLA008190BGNNLB,Saxifragaceae+Grossulariaceae,BGN:NLB,1,"Pe??a Falcoeira, sobre Covas, Ourense (c. 800 m)",-6.8416389,42.4885278,,,Cristina Roquet,,,,,,1
+Saxifraga_valdensis102739PHA008191RSZRSZAXPI000681-41,Saxifraga_valdensis102739PHA008191RSZRSZAXPI000681-41,Saxifragaceae+Grossulariaceae,RSZ:RSZAXPI000681-41,1,Savoie (FR). Bessans. Vincendi??res,7.0324849741,45.3172064217,968070.8982,2046185.931,LECA,,,,,,0
+Saxifraga_vandellii1384031PHA008193BGNLDT,Saxifraga_vandellii1384031PHA008193BGNLDT,Saxifragaceae+Grossulariaceae,BGN:LDT,1,"Lombardie (IT). Bormio. Valle de Braulio. Unterhalb Corne di Radisca, am Fluss.",10.40505,46.53908,,,Adrian Moehl,,,,,,0
+Saxifraga_vandellii1384031PHA008195BGNNSN,Saxifraga_vandellii1384031PHA008195BGNNSN,Saxifragaceae+Grossulariaceae,BGN:NSN,1,"Lombardie (IT). Bormio. Valle de Braulio. Unterhalb Corne di Radisca, am Fluss.",10.40505,46.53908,,,Adrian Moehl,,,,,,0
+Saxifraga_vayredana88878CLA008196BGNNSB,Saxifraga_vayredana88878CLA008196BGNNSB,Saxifragaceae+Grossulariaceae,BGN:NSB,1,"Carretera a Santa Fe, prop del t??nel abans del pant? ",,,,,Cristina Roquet,,,,,,1
+Saxifraga_wahlenbergii1616355CAR010217BGNNQD,Saxifraga_wahlenbergii1616355CAR010217BGNNQD,Saxifragaceae+Grossulariaceae,BGN:NQD,1,,,,,,,,,,,,0
+Saxifraga_wahlenbergii1616355CLA008197BGNMRH,Saxifraga_wahlenbergii1616355CLA008197BGNMRH,Saxifragaceae+Grossulariaceae,BGN:MRH,1,"Botanical garden of TANAP, Tatranska Lominica",,,,,TANAP,,,,,,1
